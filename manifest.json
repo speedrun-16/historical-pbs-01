@@ -1,0 +1,22 @@
+[
+  {
+    "demFileHash": "0cb3ad1e5a378a15c43389114c4db9ea78918873b88e6217ce051de94f93ce99",
+    "uid": "E4QRPVKTU",
+    "map": "speedrun_runners",
+    "category": 11,
+    "categoryName": "2K Run",
+    "time": 5376,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-09-14T04:38:19.000Z",
+    "final_stats": {
+      "finish_speed": 2000.93,
+      "gain": 231.72,
+      "jumps": 9,
+      "pre": 9.75,
+      "strafes": 17,
+      "sync": 64.02
+    },
+    "zipFilename": "00005376_STEAM_0_1_29970948_20250914-043819.zip",
+    "archivedAt": "2025-09-14T04:48:51.009Z"
+  }
+]
