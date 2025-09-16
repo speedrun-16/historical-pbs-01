@@ -1,5 +1,45 @@
 [
   {
+    "demFileHash": "57218e327d59e5650504d3468bafcb19891a40102a4457b11dd0641131dcaee3",
+    "uid": "2SDLAWQY8",
+    "map": "speedrun_runners",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 17234,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-14T09:01:45.000Z",
+    "final_stats": {
+      "finish_speed": 73.1,
+      "gain": 31.11,
+      "jumps": 26,
+      "pre": 272.87,
+      "strafes": 73,
+      "sync": 88.04
+    },
+    "zipFilename": "00017234_STEAM_0_1_771348382_20250914-090145.zip",
+    "archivedAt": "2025-09-16T12:00:00.312Z"
+  },
+  {
+    "demFileHash": "0804da688af575dae71e26facf35aedc52b2a048dddbb726964ae64c894a51d4",
+    "uid": "V9RLYK5XQ",
+    "map": "deathrun_dust2010",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 12367,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-09-15T22:31:05.000Z",
+    "final_stats": {
+      "finish_speed": 1002.12,
+      "gain": 36.08,
+      "jumps": 20,
+      "pre": 272.71,
+      "strafes": 59,
+      "sync": 92.74
+    },
+    "zipFilename": "00012367_STEAM_0_1_926467834_20250915-223105.zip",
+    "archivedAt": "2025-09-16T12:00:00.292Z"
+  },
+  {
     "demFileHash": "d4e3b7c538be8f0249103bb8898e71df1ab8b7a67f3b0acec4427617b30fda2e",
     "uid": "4HFQYXTFT",
     "map": "speedrun_Domination",
