@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "c5ac1825579045fc24a16c58b30c5940c86705aa8b973b82f483d017bf92159d",
+    "uid": "LHC0NQAH1",
+    "map": "speedrun_danmal_v2",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 18833,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-09-15T23:25:31.000Z",
+    "final_stats": {
+      "finish_speed": 947.37,
+      "gain": 30.4,
+      "jumps": 29,
+      "pre": 270.5,
+      "strafes": 75,
+      "sync": 91.61
+    },
+    "zipFilename": "00018833_STEAM_0_1_408712_20250915-232531.zip",
+    "archivedAt": "2025-09-17T03:00:00.290Z"
+  },
+  {
     "demFileHash": "5e51f486b6a56997f32d2eb9c5db33afb6048050a5b846d3115c43f496ef277e",
     "uid": "P9JJA1MVG",
     "map": "speedrun_bieber_maxfps",
