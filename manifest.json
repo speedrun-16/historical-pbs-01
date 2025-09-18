@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "ae591b64eabfc0c0bbd424b11022a449e8a082e2795ea7bcba54974ae58721b9",
+    "uid": "U1YN9LAUZ",
+    "map": "speedrun_neocist",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 19199,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-14T06:22:07.000Z",
+    "final_stats": {
+      "finish_speed": 1221.18,
+      "gain": 28.48,
+      "jumps": 31,
+      "pre": 271.72,
+      "strafes": 106,
+      "sync": 91.78
+    },
+    "zipFilename": "00019199_STEAM_0_1_771348382_20250914-062207.zip",
+    "archivedAt": "2025-09-18T09:00:00.165Z"
+  },
+  {
     "demFileHash": "83bca8fe9d49c66f9b2320b4c8a4afb226fb51937df1e66d5a270e6356f20b89",
     "uid": "W2W2NY96G",
     "map": "speedrun_euphoria",
