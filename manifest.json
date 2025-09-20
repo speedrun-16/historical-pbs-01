@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "f56b03066abdfdddcf8b5a45702885b5c238837a66cb410a8184a880d786c80c",
+    "uid": "K20G4L1OM",
+    "map": "speedrun_solitude",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 27747,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-09-15T03:06:32.000Z",
+    "final_stats": {
+      "finish_speed": 1272.06,
+      "gain": 21.51,
+      "jumps": 49,
+      "pre": 274.86,
+      "strafes": 110,
+      "sync": 84.85
+    },
+    "zipFilename": "00027747_STEAM_0_1_29970948_20250915-030632.zip",
+    "archivedAt": "2025-09-20T03:00:00.167Z"
+  },
+  {
     "demFileHash": "c49b4a2005b9ddd489a9356fbe901ea37e0f6912eba1e7fb4f14a2ba43772f21",
     "uid": "DS3VMWHMM",
     "map": "speedrun_r3x_final",
