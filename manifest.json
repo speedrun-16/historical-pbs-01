@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "796d439c87183802ad9a6fa09c3e3c8ce6a842171db568be1171e9487184b9c8",
+    "uid": "SFZ10SYRB",
+    "map": "deathrun_easy_v1",
+    "category": 11,
+    "categoryName": "2K Run",
+    "time": 6614,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-09-23T04:54:29.000Z",
+    "final_stats": {
+      "finish_speed": 2001.55,
+      "gain": 201.43,
+      "jumps": 9,
+      "pre": 245.31,
+      "strafes": 16,
+      "sync": 62.01
+    },
+    "zipFilename": "00006614_STEAM_0_1_29970948_20250923-045429.zip",
+    "archivedAt": "2025-09-23T04:57:20.019Z"
+  },
+  {
     "demFileHash": "57db3660d49292fb4ee52d2ce3211be7efd7bdb1e833a9f45f63d679a581cad9",
     "uid": "F7PNAPFNJ",
     "map": "deathrun_easy_v1",
