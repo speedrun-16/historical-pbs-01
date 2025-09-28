@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "b05c877ca5bc02f580a91b50382e9144a6a8c7e2e648076534308fb832502a3d",
+    "uid": "7I3PKRZ3J",
+    "map": "deathrun_chemical",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 10293,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-09-27T05:25:19.000Z",
+    "final_stats": {
+      "finish_speed": 909.43,
+      "gain": 37.32,
+      "jumps": 17,
+      "pre": 267.59,
+      "strafes": 60,
+      "sync": 90.89
+    },
+    "zipFilename": "00010293_STEAM_0_1_29970948_20250927-052519.zip",
+    "archivedAt": "2025-09-28T06:00:00.395Z"
+  },
+  {
     "demFileHash": "8a58eaf2a5acd016942f26de203d4fdb3730962c2aa28573feedbad0d5a44d05",
     "uid": "1NALNGU59",
     "map": "speedrun_1000fps_battle",
