@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "768962c366b0f0984cd7365f2352052868b2ab00f63cb4772f9a9d429a886534",
+    "uid": "VSPCLRCMC",
+    "map": "speedrun_1000fps_battle",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 10879,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-09-30T23:29:00.000Z",
+    "final_stats": {
+      "finish_speed": 931.59,
+      "gain": 36.23,
+      "jumps": 18,
+      "pre": 269.09,
+      "strafes": 67,
+      "sync": 87.02
+    },
+    "zipFilename": "00010879_STEAM_0_1_29970948_20250930-232900.zip",
+    "archivedAt": "2025-10-07T12:00:00.458Z"
+  },
+  {
     "demFileHash": "67382b82e54f598f651152f6a23063bce96e7ddba7043c268d4f60826a06da12",
     "uid": "5I7U7NROB",
     "map": "speedrun_wampirex",
