@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "c13c0fab7e0d205079d4cdf4e1f247525971c2ac7f7ded0230974cab489310ed",
+    "uid": "THQFON7A0",
+    "map": "speedrun_eastwood",
+    "category": 0,
+    "categoryName": "60 FPS",
+    "time": 20337,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-10-17T17:57:04.000Z",
+    "final_stats": {
+      "finish_speed": 1032.67,
+      "gain": 22.43,
+      "jumps": 33,
+      "pre": 271.51,
+      "strafes": 82,
+      "sync": 97.43
+    },
+    "zipFilename": "00020337_STEAM_0_0_24751394_20251017-175704.zip",
+    "archivedAt": "2025-10-18T00:00:00.470Z"
+  },
+  {
     "demFileHash": "ff9690f4db3bc27c7a10c7e513791c7e7c46e26dcf17f477f20bee8d76f97639",
     "uid": "VX8GPMOJ3",
     "map": "speedrun_chemical_maxfps",
