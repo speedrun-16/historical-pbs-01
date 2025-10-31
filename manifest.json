@@ -1,5 +1,45 @@
 [
   {
+    "demFileHash": "cc1b1a2129a0f94acac258a7d8c34e9f499357a5835660d1eed8b06a84ebb0e6",
+    "uid": "UK6YIVK7I",
+    "map": "de_inferno",
+    "category": 0,
+    "categoryName": "60 FPS",
+    "time": 9137,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-10-17T23:42:07.000Z",
+    "final_stats": {
+      "finish_speed": 750.13,
+      "gain": 25.15,
+      "jumps": 15,
+      "pre": 266.65,
+      "strafes": 41,
+      "sync": 86.05
+    },
+    "zipFilename": "00009137_STEAM_0_1_29970948_20251017-234207.zip",
+    "archivedAt": "2025-10-31T06:00:00.601Z"
+  },
+  {
+    "demFileHash": "b914e78b5d80f5871670055e825dbf94031a8dd1f6d0b0788c27e0b5b98be58c",
+    "uid": "M7P7UD9KI",
+    "map": "speedrun_1000fps_battle",
+    "category": 0,
+    "categoryName": "60 FPS",
+    "time": 12364,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-10-07T08:51:15.000Z",
+    "final_stats": {
+      "finish_speed": 804.87,
+      "gain": 26.19,
+      "jumps": 20,
+      "pre": 274.82,
+      "strafes": 52,
+      "sync": 94.15
+    },
+    "zipFilename": "00012364_STEAM_0_1_29970948_20251007-085115.zip",
+    "archivedAt": "2025-10-31T06:00:00.439Z"
+  },
+  {
     "demFileHash": "18d0edd1de31a339231beac8c20cfbeb6e620a9252d4e061726f571096b8e523",
     "uid": "66HC58ELK",
     "map": "de_dust2",
