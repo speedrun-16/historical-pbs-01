@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "605acaa5ee474a8aa38f4ac37df808d503a7b4a4582a441345e37b9e4cea56f4",
+    "uid": "8QZ9V0U81",
+    "map": "deathrun_w00dfun",
+    "category": 6,
+    "categoryName": "500 FPS",
+    "time": 10935,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-10-12T10:33:52.000Z",
+    "final_stats": {
+      "finish_speed": 1309.8,
+      "gain": 58.92,
+      "jumps": 18,
+      "pre": 251.11,
+      "strafes": 64,
+      "sync": 75.56
+    },
+    "zipFilename": "00010935_STEAM_0_0_35544084_20251012-103352.zip",
+    "archivedAt": "2025-11-02T12:00:00.371Z"
+  },
+  {
     "demFileHash": "2bbeb22ba2680b54ac6899f851b6da81246c73acd4c86b3ccfd6de1edf4176fd",
     "uid": "VNCWLL8PY",
     "map": "speedrun_triskelion_ruins_beta2",
