@@ -1,5 +1,45 @@
 [
   {
+    "demFileHash": "8243c9c65c1937feb31d7ecff5e0806706ec51e8c5e6f2b44d2965ca113a5bcf",
+    "uid": "TOB5A4BKA",
+    "map": "speedrun_triskelion_ruins_beta2",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 13798,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-02T20:27:24.000Z",
+    "final_stats": {
+      "finish_speed": 1012.15,
+      "gain": 38.9,
+      "jumps": 19,
+      "pre": 272.97,
+      "strafes": 61,
+      "sync": 87.68
+    },
+    "zipFilename": "00013798_STEAM_0_1_796767048_20251102-202724.zip",
+    "archivedAt": "2025-11-04T18:00:00.484Z"
+  },
+  {
+    "demFileHash": "0031e8df26e11489f26f09afb9804e9ebb3542f76225a3ec70089b87dee4ea49",
+    "uid": "4BV7XACQD",
+    "map": "speedrun_triskelion_ruins_beta2",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 13667,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-11-02T20:42:43.000Z",
+    "final_stats": {
+      "finish_speed": 1042.94,
+      "gain": 38.43,
+      "jumps": 20,
+      "pre": 274.14,
+      "strafes": 68,
+      "sync": 91.02
+    },
+    "zipFilename": "00013667_STEAM_0_0_24751394_20251102-204243.zip",
+    "archivedAt": "2025-11-04T18:00:00.452Z"
+  },
+  {
     "demFileHash": "8661de85e2e62a53e595b6c20722f71bb0c90b0e7c742343a95ce4462a63c500",
     "uid": "IQSP7MAUT",
     "map": "speedrun_evidens",
