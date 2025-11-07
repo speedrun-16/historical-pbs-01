@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "cbf91b7c7b07a6901f1af05ff07edb6f8cc32f6cb65585f6a32dfb4ba87e6c7d",
+    "uid": "X1UVM27RZ",
+    "map": "speedrun_leszcz",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 14554,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-09-20T02:07:14.000Z",
+    "final_stats": {
+      "finish_speed": 974.28,
+      "gain": 27.91,
+      "jumps": 25,
+      "pre": 273.96,
+      "strafes": 76,
+      "sync": 82.53
+    },
+    "zipFilename": "00014554_STEAM_0_1_29970948_20250920-020714.zip",
+    "archivedAt": "2025-11-07T06:00:00.361Z"
+  },
+  {
     "demFileHash": "430f239ee243cd6feec91fa590a00365f505630941276940aea2baea435f9a18",
     "uid": "TYVSM3LF3",
     "map": "speedrun_neocist",
