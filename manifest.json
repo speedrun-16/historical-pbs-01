@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "1c0a9afb1a877ca91e99b71a467dbd5ed8ab3ddfecedfc94aa156ad8afb1be25",
+    "uid": "YYSSAAL1T",
+    "map": "speedrun_sunnies_short",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 11979,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-11-08T04:00:51.000Z",
+    "final_stats": {
+      "finish_speed": 997.03,
+      "gain": 31.58,
+      "jumps": 23,
+      "pre": 270.58,
+      "strafes": 62,
+      "sync": 92.33
+    },
+    "zipFilename": "00011979_STEAM_0_1_926467834_20251108-040051.zip",
+    "archivedAt": "2025-11-09T06:00:00.577Z"
+  },
+  {
     "demFileHash": "0cdf9d3ce43e8b4c070c3780c1d825276d210ca61339d8625ef20f6b3cf8f8c0",
     "uid": "3WTQ5XQ96",
     "map": "speedrun_w00dfun",
