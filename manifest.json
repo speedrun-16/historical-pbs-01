@@ -1,5 +1,45 @@
 [
   {
+    "demFileHash": "8420db3da90c9d60858a1fa61553cd0a36ef2f22b6d5ac58036c3ff9d3fe55fe",
+    "uid": "KNBGPAN8D",
+    "map": "speedrun_1000fps_battle",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 11260,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-10T23:56:37.000Z",
+    "final_stats": {
+      "finish_speed": 900.76,
+      "gain": 35,
+      "jumps": 18,
+      "pre": 270.6,
+      "strafes": 54,
+      "sync": 93.76
+    },
+    "zipFilename": "00011260_STEAM_0_1_447056338_20251110-235637.zip",
+    "archivedAt": "2025-11-11T06:00:00.566Z"
+  },
+  {
+    "demFileHash": "3ec66d51d678dfc6477a049a298f5bdf0f7d1f6e1df18db3bd143e7a3baf0951",
+    "uid": "U0TWDZSS8",
+    "map": "speedrun_1000fps_battle",
+    "category": 0,
+    "categoryName": "60 FPS",
+    "time": 12306,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-10-31T03:39:42.000Z",
+    "final_stats": {
+      "finish_speed": 814.3,
+      "gain": 27,
+      "jumps": 20,
+      "pre": 274.22,
+      "strafes": 56,
+      "sync": 94.67
+    },
+    "zipFilename": "00012306_STEAM_0_1_29970948_20251031-033942.zip",
+    "archivedAt": "2025-11-11T06:00:00.458Z"
+  },
+  {
     "demFileHash": "1c0a9afb1a877ca91e99b71a467dbd5ed8ab3ddfecedfc94aa156ad8afb1be25",
     "uid": "YYSSAAL1T",
     "map": "speedrun_sunnies_short",
