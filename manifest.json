@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "a14c73c69f3f1b9ad766da58603efe2e613137e25b2937b90047ab07ad39972e",
+    "uid": "YB2FF06QE",
+    "map": "cs_militia",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 9847,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-09-27T14:56:40.000Z",
+    "final_stats": {
+      "finish_speed": 783.44,
+      "gain": 36.12,
+      "jumps": 16,
+      "pre": 268.38,
+      "strafes": 46,
+      "sync": 90.44
+    },
+    "zipFilename": "00009847_STEAM_0_1_84733295_20250927-145640.zip",
+    "archivedAt": "2025-11-13T18:00:00.403Z"
+  },
+  {
     "demFileHash": "de39b09d689d9daa3cc36d8cf48578b319aa40e1727e890309fc0f85f60378ad",
     "uid": "03DO8OEIP",
     "map": "speedrun_chemicalz",
