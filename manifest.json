@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "d08cce6d35a9c0fe8b559c09926fe0e935c35243f9152166a5981414111f2709",
+    "uid": "HGHOQ8YGU",
+    "map": "deathrun_w00dfun",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 13813,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-18T22:44:10.000Z",
+    "final_stats": {
+      "finish_speed": 1019.36,
+      "gain": 37.48,
+      "jumps": 20,
+      "pre": 269.73,
+      "strafes": 83,
+      "sync": 86.12
+    },
+    "zipFilename": "00013813_STEAM_0_1_447056338_20251118-224410.zip",
+    "archivedAt": "2025-11-20T18:00:00.357Z"
+  },
+  {
     "demFileHash": "32a2ed73d86f9396646bd25ad2ebb17020a37de45fa53e9b28f9bf0a017614cf",
     "uid": "TQ7LDQIGS",
     "map": "speedrun_pupsik",
