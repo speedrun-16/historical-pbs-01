@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "0baac7e8a303fc656732599d76330b2f00e5ee57e84e8ec4765b3be77634b48b",
+    "uid": "82DHAE11P",
+    "map": "speedrun_triskelion_ruins_beta2",
+    "category": 3,
+    "categoryName": "200 FPS",
+    "time": 13001,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-02T20:36:05.000Z",
+    "final_stats": {
+      "finish_speed": 1043.89,
+      "gain": 51.96,
+      "jumps": 18,
+      "pre": 272.69,
+      "strafes": 73,
+      "sync": 81.85
+    },
+    "zipFilename": "00013001_STEAM_0_1_29970948_20251102-203605.zip",
+    "archivedAt": "2025-11-21T06:00:00.537Z"
+  },
+  {
     "demFileHash": "edd67a8b476012b2833380b5dd73b62303e4756c1940b4b7e7ea4b52b4ef9696",
     "uid": "1BB4I96GK",
     "map": "speedrun_1000fps_battle",
