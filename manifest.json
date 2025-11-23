@@ -1,5 +1,45 @@
 [
   {
+    "demFileHash": "ceb2e824a6c8c535af40ba894bcf20c8daef67154b1eaab6ff63c2a1f6ad9a75",
+    "uid": "01L2SWAML",
+    "map": "speedrun_chemicalz",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 17495,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-12T22:22:31.000Z",
+    "final_stats": {
+      "finish_speed": 989.77,
+      "gain": 29.59,
+      "jumps": 27,
+      "pre": 271.85,
+      "strafes": 96,
+      "sync": 87.81
+    },
+    "zipFilename": "00017495_STEAM_0_1_447056338_20251112-222231.zip",
+    "archivedAt": "2025-11-23T06:00:00.397Z"
+  },
+  {
+    "demFileHash": "5a765b6a4ee704e78a8b65692d925a49b67964f4c450426d5514e4fb67a64de5",
+    "uid": "V9Y4KW2FM",
+    "map": "deathrun_w00dfun",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 13750,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-20T17:42:41.000Z",
+    "final_stats": {
+      "finish_speed": 1024.83,
+      "gain": 33.63,
+      "jumps": 21,
+      "pre": 274.49,
+      "strafes": 81,
+      "sync": 92.55
+    },
+    "zipFilename": "00013750_STEAM_0_1_447056338_20251120-174241.zip",
+    "archivedAt": "2025-11-23T06:00:00.354Z"
+  },
+  {
     "demFileHash": "f77c4e59724a1a0af2cda51c0e477c41b62ea21224af5f869fc7974249ec2baa",
     "uid": "3R2LX6C6M",
     "map": "speedrun_bunnyrace_beta2",
