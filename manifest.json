@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "28f8c127f69ff5fb2d145a56b387f233686bc99902b10e7d52fe0988e7007035",
+    "uid": "Y1Z6EAXKR",
+    "map": "speedrun_grasz_final",
+    "category": 3,
+    "categoryName": "200 FPS",
+    "time": 13006,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-17T19:18:44.000Z",
+    "final_stats": {
+      "finish_speed": 1338.81,
+      "gain": 52.28,
+      "jumps": 19,
+      "pre": 271.93,
+      "strafes": 86,
+      "sync": 86.34
+    },
+    "zipFilename": "00013006_STEAM_0_1_771348382_20250917-191844.zip",
+    "archivedAt": "2025-11-25T18:00:00.360Z"
+  },
+  {
     "demFileHash": "2528b01ecb7f63b65d9ad7381760ae1113515287b9f51ef08b98f3f5000f0e33",
     "uid": "M69J7X4UF",
     "map": "speedrun_triskelion_ruins_beta2",
