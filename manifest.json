@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "8b1f74f7eac1ee653a53b0aaa815f5c34d5f393db551a01b3228e9ae4e7df759",
+    "uid": "9M3W2CDPX",
+    "map": "deathrun_fusion_wild",
+    "category": 5,
+    "categoryName": "333 FPS",
+    "time": 32686,
+    "playerSteamId": "STEAM_0:1:461671282",
+    "timestamp": "2025-11-01T18:15:23.000Z",
+    "final_stats": {
+      "finish_speed": 752.69,
+      "gain": 50.62,
+      "jumps": 44,
+      "pre": 272.35,
+      "strafes": 116,
+      "sync": 81.04
+    },
+    "zipFilename": "00032686_STEAM_0_1_461671282_20251101-181523.zip",
+    "archivedAt": "2025-11-27T18:00:00.521Z"
+  },
+  {
     "demFileHash": "99bdc360cc11ade05dfd5459536f0ab514c3b18f12bf916bd4498ba8073d7270",
     "uid": "T31YR4M95",
     "map": "speedrun_al",
