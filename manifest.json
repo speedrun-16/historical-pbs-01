@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "0a146a7bc392822670ecdb7260a9302530d09ff11d9a33dfd04f3a6b396458f7",
+    "uid": "R6BIV780H",
+    "map": "speedrun_1000fps_battle",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 10892,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-10-31T15:23:06.000Z",
+    "final_stats": {
+      "finish_speed": 920.33,
+      "gain": 35.87,
+      "jumps": 18,
+      "pre": 274.55,
+      "strafes": 71,
+      "sync": 93.4
+    },
+    "zipFilename": "00010892_STEAM_0_1_84733295_20251031-152306.zip",
+    "archivedAt": "2025-11-28T06:00:00.424Z"
+  },
+  {
     "demFileHash": "8b1f74f7eac1ee653a53b0aaa815f5c34d5f393db551a01b3228e9ae4e7df759",
     "uid": "9M3W2CDPX",
     "map": "deathrun_fusion_wild",
