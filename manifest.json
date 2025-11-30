@@ -1,5 +1,65 @@
 [
   {
+    "demFileHash": "ad3dc85423eaa8eb2e088e7f073d86801338e1a1945a18268ac62b51465768c8",
+    "uid": "VJVUWLLJE",
+    "map": "speedrun_calisto",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 15001,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-11-29T16:11:27.000Z",
+    "final_stats": {
+      "finish_speed": 1064.27,
+      "gain": 34.53,
+      "jumps": 23,
+      "pre": 270.06,
+      "strafes": 63,
+      "sync": 93.93
+    },
+    "zipFilename": "00015001_STEAM_0_1_926467834_20251129-161127.zip",
+    "archivedAt": "2025-11-30T00:00:00.482Z"
+  },
+  {
+    "demFileHash": "f5937e999fbbbc8a8680902a3260824779844ece2e6f9a3e65f5b8a7195d4ec8",
+    "uid": "H6IHFGN4L",
+    "map": "speedrun_svet",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 17668,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-11-09T15:49:34.000Z",
+    "final_stats": {
+      "finish_speed": 1159.78,
+      "gain": 31.79,
+      "jumps": 28,
+      "pre": 269.45,
+      "strafes": 85,
+      "sync": 92.75
+    },
+    "zipFilename": "00017668_STEAM_0_1_926467834_20251109-154934.zip",
+    "archivedAt": "2025-11-30T00:00:00.452Z"
+  },
+  {
+    "demFileHash": "556b9f8c7b3a142e44073b317b08f63ebf39539e5385e45dd8d03a76d04407c1",
+    "uid": "799CSJ6KM",
+    "map": "speedrun_euphoria",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 24720,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-10-05T19:53:37.000Z",
+    "final_stats": {
+      "finish_speed": 1332.15,
+      "gain": 25.26,
+      "jumps": 40,
+      "pre": 272.44,
+      "strafes": 95,
+      "sync": 85.19
+    },
+    "zipFilename": "00024720_STEAM_0_1_926467834_20251005-195337.zip",
+    "archivedAt": "2025-11-30T00:00:00.375Z"
+  },
+  {
     "demFileHash": "fe4bf7f6e9a1b86df6c8c3d0173a0000bb34a5bbb8dd7f652e642e00873e2f8f",
     "uid": "R9WHOHT91",
     "map": "speedrun_1000fps_battle",
