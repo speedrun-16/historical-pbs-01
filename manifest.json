@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "587682b442de02743739778bac088c4481938728e4cb6e48e3f4439d8e9657b6",
+    "uid": "DNESETVNG",
+    "map": "speedrun_several_longer",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 15528,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-12-01T13:43:14.000Z",
+    "final_stats": {
+      "finish_speed": 1094.79,
+      "gain": 32.98,
+      "jumps": 25,
+      "pre": 270.16,
+      "strafes": 77,
+      "sync": 92.34
+    },
+    "zipFilename": "00015528_STEAM_0_1_771348382_20251201-134314.zip",
+    "archivedAt": "2025-12-02T18:00:00.667Z"
+  },
+  {
     "demFileHash": "deae41236008b824e99ca091d66d1e7bfb61ddc17b05a6a2e311cc41d8e88c70",
     "uid": "YC84H2AST",
     "map": "deathrun_easy_v1",
