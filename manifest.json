@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "d87df249c63f221d3ee3f9bea6867e019f1503745226db8263a3b6c1b07bb542",
+    "uid": "Q4Y19A0GO",
+    "map": "speedrun_runners",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 15050,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-12-03T07:13:09.000Z",
+    "final_stats": {
+      "finish_speed": 1085.88,
+      "gain": 32.61,
+      "jumps": 25,
+      "pre": 275,
+      "strafes": 75,
+      "sync": 89.58
+    },
+    "zipFilename": "00015050_STEAM_0_1_29970948_20251203-071309.zip",
+    "archivedAt": "2025-12-10T12:00:00.369Z"
+  },
+  {
     "demFileHash": "cfbdbf283525bff119153e59bf16dfaefa6d22691ab63e51cf8065ed6330e038",
     "uid": "9FVC7S7LG",
     "map": "speedrun_insanity",
