@@ -1,5 +1,45 @@
 [
   {
+    "demFileHash": "a886b7adfe268309d9d9488d267fa7464524d5dbab8e565005c33c1929b6916f",
+    "uid": "8ULGOSEIG",
+    "map": "speedrun_miqu",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 20329,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-09-19T16:14:56.000Z",
+    "final_stats": {
+      "finish_speed": 1272.26,
+      "gain": 36.57,
+      "jumps": 31,
+      "pre": 273.25,
+      "strafes": 88,
+      "sync": 93.5
+    },
+    "zipFilename": "00020329_STEAM_0_0_24751394_20250919-161456.zip",
+    "archivedAt": "2025-12-25T18:00:00.650Z"
+  },
+  {
+    "demFileHash": "b691998adcea0458cf7e73b49454a5190e9115a144c3a40462de6a3683f6decd",
+    "uid": "R7VZR6D97",
+    "map": "speedrun_voidsanctum_beta2",
+    "category": 0,
+    "categoryName": "60 FPS",
+    "time": 38887,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-10-31T03:07:16.000Z",
+    "final_stats": {
+      "finish_speed": 149.6,
+      "gain": 19.1,
+      "jumps": 61,
+      "pre": 272.82,
+      "strafes": 130,
+      "sync": 89.52
+    },
+    "zipFilename": "00038887_STEAM_0_1_408712_20251031-030716.zip",
+    "archivedAt": "2025-12-25T18:00:00.568Z"
+  },
+  {
     "demFileHash": "d0698771f12cb62fa0ea4751779eeda280a3d4332781c0d2f7a5d4acaf8d01c0",
     "uid": "IKQPHSWA4",
     "map": "speedrun_r3x_final",
