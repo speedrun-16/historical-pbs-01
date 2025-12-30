@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "e1f0fc57aa219b16397ae38e6277632c0af6f4f2b22b78ad82f9c2437b5d6113",
+    "uid": "BL2FYX49I",
+    "map": "speedrun_wander",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 17377,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-10-06T21:02:54.000Z",
+    "final_stats": {
+      "finish_speed": 1183.29,
+      "gain": 33.11,
+      "jumps": 27,
+      "pre": 275.45,
+      "strafes": 82,
+      "sync": 95.27
+    },
+    "zipFilename": "00017377_STEAM_0_1_408712_20251006-210254.zip",
+    "archivedAt": "2025-12-30T00:00:00.418Z"
+  },
+  {
     "demFileHash": "00ded09208af42b078d0b1a29d9f194b0dd5b3ba932b580878fb206fa7b15f5b",
     "uid": "52BKQXIYJ",
     "map": "deathrun_grass",
