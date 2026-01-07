@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "ece873d5460bdb7924be48a88321fd723545211e45ab87b07e81ef72ec7b83df",
+    "uid": "U6TODO215",
+    "map": "speedrun_wander",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 17927,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2026-01-04T13:28:20.000Z",
+    "final_stats": {
+      "finish_speed": 1163.7,
+      "gain": 31.81,
+      "jumps": 28,
+      "pre": 272.77,
+      "strafes": 96,
+      "sync": 89.25
+    },
+    "zipFilename": "00017927_STEAM_0_1_926467834_20260104-132820.zip",
+    "archivedAt": "2026-01-07T18:00:00.418Z"
+  },
+  {
     "demFileHash": "753e83db5af499b9073af76002dd1485921c8228d6163ac1b2aafc052ce062bb",
     "uid": "ZLGCJRPZW",
     "map": "de_train",
