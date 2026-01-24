@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "cf93be82a699d5120d6949fd5af7c19f94eeaa8b41852dfce75823401b2e227c",
+    "uid": "MN1WNOD8H",
+    "map": "speedrun_bieber_maxfps",
+    "category": 6,
+    "categoryName": "500 FPS",
+    "time": 11904,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-11T10:42:33.000Z",
+    "final_stats": {
+      "finish_speed": 544.07,
+      "gain": 72.38,
+      "jumps": 19,
+      "pre": 244.72,
+      "strafes": 68,
+      "sync": 76.57
+    },
+    "zipFilename": "00011904_STEAM_0_0_35544084_20251111-104233.zip",
+    "archivedAt": "2026-01-24T18:00:00.387Z"
+  },
+  {
     "demFileHash": "5470f6519f440a55c5e20644e991529224cdce03bbbdeb5e037bb011fada3cd5",
     "uid": "UDF6B3YVK",
     "map": "speedrun_phe3",
