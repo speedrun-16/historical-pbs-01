@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "45063af20aa6bb623a97073f5413446dbaa07e815acd8298d123c492e8f38f66",
+    "uid": "BRJ3PDIC6",
+    "map": "speedrun_several_trilogy",
+    "category": 6,
+    "categoryName": "500 FPS",
+    "time": 11693,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-20T12:48:27.000Z",
+    "final_stats": {
+      "finish_speed": 1611.88,
+      "gain": 73.22,
+      "jumps": 19,
+      "pre": 247.89,
+      "strafes": 73,
+      "sync": 73.71
+    },
+    "zipFilename": "00011693_STEAM_0_0_35544084_20251120-124827.zip",
+    "archivedAt": "2026-01-31T12:00:00.368Z"
+  },
+  {
     "demFileHash": "b0fc1337c95c097f7d5a0d5f7f31549ec2edaef3f2f97716526d23638a09b8ae",
     "uid": "ZIJM8L8FD",
     "map": "speedrun_bunnyrace_beta2",
