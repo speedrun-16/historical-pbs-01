@@ -1,5 +1,45 @@
 [
   {
+    "demFileHash": "2d3f7221d4a583a095d6cfcd7f6dc2b061d4105a41083c6e7f5882b421cf9ea8",
+    "uid": "F5L5I6FGS",
+    "map": "speedrun_pryda_v2",
+    "category": 5,
+    "categoryName": "333 FPS",
+    "time": 8782,
+    "playerSteamId": "STEAM_0:1:461671282",
+    "timestamp": "2026-01-31T19:36:04.000Z",
+    "final_stats": {
+      "finish_speed": 1371.49,
+      "gain": 73.68,
+      "jumps": 15,
+      "pre": 266.15,
+      "strafes": 53,
+      "sync": 85.11
+    },
+    "zipFilename": "00008782_STEAM_0_1_461671282_20260131-193604.zip",
+    "archivedAt": "2026-02-03T12:00:00.523Z"
+  },
+  {
+    "demFileHash": "9b1e4be6c1c6c674120139b49403a37a7662bb5b34bc1c9c5d9285095812604b",
+    "uid": "3G78NA9SB",
+    "map": "speedrun_bunnyrace_beta2",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 36231,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-14T22:58:46.000Z",
+    "final_stats": {
+      "finish_speed": 1644.39,
+      "gain": 27.38,
+      "jumps": 50,
+      "pre": 275.09,
+      "strafes": 157,
+      "sync": 89.9
+    },
+    "zipFilename": "00036231_STEAM_0_1_29970948_20251114-225846.zip",
+    "archivedAt": "2026-02-03T12:00:00.457Z"
+  },
+  {
     "demFileHash": "846cc1bb27411efe80600fba3a06001f8555f36bad68f6a82652f83e8a261a75",
     "uid": "3UYNP0SUS",
     "map": "speedrun_pryda_v2",
