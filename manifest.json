@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "24c0c6b6c11facfe9c48b3bdc396a406d73347100d45c818257ced4b228b4c60",
+    "uid": "D2PG6F7H4",
+    "map": "deathrun_forest",
+    "category": 2,
+    "categoryName": "131 FPS",
+    "time": 24459,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2026-01-09T20:29:45.000Z",
+    "final_stats": {
+      "finish_speed": 580.89,
+      "gain": 36.52,
+      "jumps": 36,
+      "pre": 265.49,
+      "strafes": 117,
+      "sync": 88.71
+    },
+    "zipFilename": "00024459_STEAM_0_1_926467834_20260109-202945.zip",
+    "archivedAt": "2026-02-06T12:00:00.441Z"
+  },
+  {
     "demFileHash": "b43a27f0e0aca8f5fda9600cc014b1fd3dab9d50f9fcfdb5a2e13e8536656b32",
     "uid": "TEKVQG2ZE",
     "map": "speedrun_several",
