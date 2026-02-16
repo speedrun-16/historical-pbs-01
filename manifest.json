@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "c8de815a12a4a89ae71c659b56c3d5643cde06fa0dfb7a95f90c06c831f95199",
+    "uid": "CV1W88YXK",
+    "map": "deathrun_arctic",
+    "category": 2,
+    "categoryName": "131 FPS",
+    "time": 23690,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2026-01-08T11:44:08.000Z",
+    "final_stats": {
+      "finish_speed": 1521.5,
+      "gain": 32.87,
+      "jumps": 38,
+      "pre": 272.35,
+      "strafes": 102,
+      "sync": 93.27
+    },
+    "zipFilename": "00023690_STEAM_0_1_926467834_20260108-114408.zip",
+    "archivedAt": "2026-02-16T00:00:00.383Z"
+  },
+  {
     "demFileHash": "25209c72a90a70d0c4a62c0e6baa1f132c0526d59c0c9c7f8153aa873ec36cd6",
     "uid": "ARUIDSUOE",
     "map": "speedrun_silent",
