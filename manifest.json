@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "7875931863b78bf33b23e0d57bfbf0cd345e7a7ce244f730d82f9a821733b4da",
+    "uid": "TWEYN3TKO",
+    "map": "speedrun_1000fps_battle",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 10823,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-21T23:23:41.000Z",
+    "final_stats": {
+      "finish_speed": 926.8,
+      "gain": 36.24,
+      "jumps": 18,
+      "pre": 274.46,
+      "strafes": 75,
+      "sync": 90.68
+    },
+    "zipFilename": "00010823_STEAM_0_1_447056338_20251121-232341.zip",
+    "archivedAt": "2026-02-19T18:00:00.403Z"
+  },
+  {
     "demFileHash": "6628cdeeaa10f1b829c60612896862aa00ccdf92405c072100b469e5e705c8bb",
     "uid": "WWCHR9SSX",
     "map": "speedrun_amel",
