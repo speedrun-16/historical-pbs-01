@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "e25b6a1242216ca65e8fddeff213759ce52a89aff2d360963da7ffbd71a2d3ab",
+    "uid": "W0F4DM5EJ",
+    "map": "speedrun_vantara",
+    "category": 0,
+    "categoryName": "60 FPS",
+    "time": 23135,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2026-03-17T17:45:03.000Z",
+    "final_stats": {
+      "finish_speed": 1030.19,
+      "gain": 20.96,
+      "jumps": 36,
+      "pre": 275.57,
+      "strafes": 87,
+      "sync": 90.44
+    },
+    "zipFilename": "00023135_STEAM_0_1_29970948_20260317-174503.zip",
+    "archivedAt": "2026-03-18T00:00:00.389Z"
+  },
+  {
     "demFileHash": "5c73c36f73ae72a6db411c78d9b7c7b6a7869d1c2f19a8c7cefde09f9180c8a1",
     "uid": "TUQPUBOP3",
     "map": "speedrun_vantara",
