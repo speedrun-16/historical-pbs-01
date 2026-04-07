@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "13d9b14a33d7abb1d30fb38a5b37f1edf9f97ad0933d196a3b7beb99c039195c",
+    "uid": "WB10TAJOD",
+    "map": "speedrun_calisto",
+    "category": 6,
+    "categoryName": "500 FPS",
+    "time": 12643,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-10-20T18:13:38.000Z",
+    "final_stats": {
+      "finish_speed": 1297.53,
+      "gain": 51.39,
+      "jumps": 21,
+      "pre": 256.56,
+      "strafes": 54,
+      "sync": 75.42
+    },
+    "zipFilename": "00012643_STEAM_0_0_35544084_20251020-181338.zip",
+    "archivedAt": "2026-04-07T12:00:00.393Z"
+  },
+  {
     "demFileHash": "b4bd1718ce4fd6be2035242a81fc178a52c56856190d18271d2ade9f1aa7cc32",
     "uid": "2593IWGHO",
     "map": "speedrun_1000fps_battle",
