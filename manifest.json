@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "44b010afd0d13b4b447994edae283bca140676be1280fdb1fc7efdd73fa87394",
+    "uid": "COCUOZAGD",
+    "map": "speedrun_grasz_final",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 15447,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-04-10T15:37:23.000Z",
+    "final_stats": {
+      "finish_speed": 1130,
+      "gain": 34.23,
+      "jumps": 25,
+      "pre": 274.13,
+      "strafes": 73,
+      "sync": 92.24
+    },
+    "zipFilename": "00015447_STEAM_0_1_771348382_20260410-153723.zip",
+    "archivedAt": "2026-04-11T18:00:00.629Z"
+  },
+  {
     "demFileHash": "e4081d747ce17b27e0dccba52ef467378180e54d4d8103563c1cdee2bb5fabec",
     "uid": "OHUIY7EL6",
     "map": "speedrun_aurea",
