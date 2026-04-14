@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "53a2f2b7e58223db16926e00a820f2cca2f3221085b16343d17b7a9961aa65fa",
+    "uid": "NQLWTAUX1",
+    "map": "speedrun_bunnyrace_beta2",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 34818,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-12-20T10:55:07.000Z",
+    "final_stats": {
+      "finish_speed": 1646.09,
+      "gain": 28.61,
+      "jumps": 48,
+      "pre": 272.46,
+      "strafes": 131,
+      "sync": 91.78
+    },
+    "zipFilename": "00034818_STEAM_0_1_771348382_20251220-105507.zip",
+    "archivedAt": "2026-04-14T18:00:00.504Z"
+  },
+  {
     "demFileHash": "a5e00c14ee05777860dc5b04cb844557aca2bfff09cc47c02cb5320ade6ddddb",
     "uid": "BYEUI160D",
     "map": "speedrun_1000fps_battle",
