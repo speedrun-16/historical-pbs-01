@@ -1,5 +1,45 @@
 [
   {
+    "demFileHash": "289501d1ab2c4a0fa23246c11ebc054a553f25b6479f76e9d61d7716599afa17",
+    "uid": "PUV3VIWWL",
+    "map": "speedrun_aurea",
+    "category": 0,
+    "categoryName": "60 FPS",
+    "time": 32884,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2026-04-17T13:49:21.000Z",
+    "final_stats": {
+      "finish_speed": 1253.77,
+      "gain": 18.14,
+      "jumps": 54,
+      "pre": 274.17,
+      "strafes": 118,
+      "sync": 93.05
+    },
+    "zipFilename": "00032884_STEAM_0_1_408712_20260417-134921.zip",
+    "archivedAt": "2026-04-18T18:00:00.512Z"
+  },
+  {
+    "demFileHash": "fc9cd37215f4d5b42b35cafba14f1a9318da923d16858328fa8997aa33af229f",
+    "uid": "5519Y61BO",
+    "map": "speedrun_aurea",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 28232,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-04-10T21:24:55.000Z",
+    "final_stats": {
+      "finish_speed": 1478.82,
+      "gain": 25.74,
+      "jumps": 47,
+      "pre": 268.9,
+      "strafes": 132,
+      "sync": 89.15
+    },
+    "zipFilename": "00028232_STEAM_0_1_771348382_20260410-212455.zip",
+    "archivedAt": "2026-04-18T18:00:00.411Z"
+  },
+  {
     "demFileHash": "c1b26f9731bfa387f240bf7af8ae92ab067e05980ce14dbd4c3a1d3fc461bef5",
     "uid": "EWOIWLXON",
     "map": "deathrun_chemical",
