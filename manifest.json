@@ -1,5 +1,85 @@
 [
   {
+    "demFileHash": "1f0a08e3e0dc39e73d0feaad619d7d98fda39b47e5aed622a3e94208ccf1c403",
+    "uid": "E5P65K416",
+    "map": "speedrun_grasz_final",
+    "category": 2,
+    "categoryName": "131 FPS",
+    "time": 14366,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-04-10T16:55:22.000Z",
+    "final_stats": {
+      "finish_speed": 1224.92,
+      "gain": 41.38,
+      "jumps": 23,
+      "pre": 273.01,
+      "strafes": 71,
+      "sync": 87.92
+    },
+    "zipFilename": "00014366_STEAM_0_1_771348382_20260410-165522.zip",
+    "archivedAt": "2026-04-20T18:00:00.666Z"
+  },
+  {
+    "demFileHash": "8df59083e836ddbdfa29751bac2e6e2593f04a302bdf28cbd31b1c7fc1c48c5c",
+    "uid": "XZCLWL2OF",
+    "map": "speedrun_aurea",
+    "category": 0,
+    "categoryName": "60 FPS",
+    "time": 32668,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2026-04-18T14:11:56.000Z",
+    "final_stats": {
+      "finish_speed": 1256.14,
+      "gain": 17.84,
+      "jumps": 55,
+      "pre": 274.46,
+      "strafes": 123,
+      "sync": 93.12
+    },
+    "zipFilename": "00032668_STEAM_0_1_408712_20260418-141156.zip",
+    "archivedAt": "2026-04-20T18:00:00.604Z"
+  },
+  {
+    "demFileHash": "107b0ad409ede4e00c7ec28fd8a6c5db20694b214467d89ed315afaac43cf518",
+    "uid": "XFK9PGPPB",
+    "map": "speedrun_grasz_final",
+    "category": 4,
+    "categoryName": "250 FPS",
+    "time": 12058,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-04-10T15:49:37.000Z",
+    "final_stats": {
+      "finish_speed": 1476.09,
+      "gain": 60.26,
+      "jumps": 20,
+      "pre": 270.76,
+      "strafes": 73,
+      "sync": 84.62
+    },
+    "zipFilename": "00012058_STEAM_0_1_771348382_20260410-154937.zip",
+    "archivedAt": "2026-04-20T18:00:00.549Z"
+  },
+  {
+    "demFileHash": "d72170da4dc84cbcc34860cb0629da74391d634eacd49fb2348f46bd21b3e080",
+    "uid": "WKKCBOD9K",
+    "map": "speedrun_aurea",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 28149,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-04-18T14:54:34.000Z",
+    "final_stats": {
+      "finish_speed": 1476.58,
+      "gain": 25.61,
+      "jumps": 47,
+      "pre": 272.69,
+      "strafes": 133,
+      "sync": 90.7
+    },
+    "zipFilename": "00028149_STEAM_0_1_771348382_20260418-145434.zip",
+    "archivedAt": "2026-04-20T18:00:00.485Z"
+  },
+  {
     "demFileHash": "ba5876633a8f16113004802b3d60105a28e6bd3eac9516de447290159031ff2b",
     "uid": "G75NJ2CEA",
     "map": "speedrun_runners",
