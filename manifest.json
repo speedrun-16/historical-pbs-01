@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "ac50ab98710170bf1dbc90983540951d02d12c10f4d2d1324695da85c091e01b",
+    "uid": "BMHI00BJV",
+    "map": "speedrun_tibia",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 28286,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-02-05T18:26:16.000Z",
+    "final_stats": {
+      "finish_speed": 1466.67,
+      "gain": 28.96,
+      "jumps": 44,
+      "pre": 268.52,
+      "strafes": 110,
+      "sync": 91.82
+    },
+    "zipFilename": "00028286_STEAM_0_1_771348382_20260205-182616.zip",
+    "archivedAt": "2026-05-02T00:00:00.491Z"
+  },
+  {
     "demFileHash": "2b695d905ead6fbbfc9955bb0f8a33909cc12a6c50b24c744661e113a838abc9",
     "uid": "L9ORU2FEA",
     "map": "speedrun_w00dfun",
