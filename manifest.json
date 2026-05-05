@@ -1,5 +1,25 @@
 [
   {
+    "demFileHash": "9a87cf4ec242cdc56c4f6734360973e342b8a5c8c0506fa70051ba5c6b4e1ab0",
+    "uid": "JU0PIX5W0",
+    "map": "speedrun_calm",
+    "category": 1,
+    "categoryName": "100 FPS",
+    "time": 12672,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-04T23:59:29.000Z",
+    "final_stats": {
+      "finish_speed": 1007.61,
+      "gain": 34.26,
+      "jumps": 21,
+      "pre": 288.01,
+      "strafes": 69,
+      "sync": 90.39
+    },
+    "zipFilename": "00012672_STEAM_0_1_771348382_20260504-235929.zip",
+    "archivedAt": "2026-05-05T06:00:00.478Z"
+  },
+  {
     "demFileHash": "c9371f535a8723511fa84ed1ce0475374d879fc7de2d949287a12721a6a658d5",
     "uid": "CA5DEUKAJ",
     "map": "speedrun_easy_v1",
