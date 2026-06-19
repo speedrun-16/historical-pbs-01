@@ -1,0 +1,151 @@
+{
+  "map": "speedrun_svet",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "E4P1GG2RU",
+      "rid": 20521,
+      "hash": "b610acad1fc8dc219deac964911ef1bc5d202ef8ede29170a2093bb07cac8c22",
+      "t": 17258,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-12-06T17:18:21Z",
+      "zip": "00017258_STEAM_0_1_771348382_20251206-171821.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_svet-20251206-#E4P1GG2RU.analysis.json",
+          "off": 77,
+          "size": 221366
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_svet-20251206-#E4P1GG2RU.dem",
+          "off": 221510,
+          "size": 159582
+        },
+        {
+          "type": "replay",
+          "name": "20521.replay.xz",
+          "off": 381137,
+          "size": 31448
+        }
+      ]
+    },
+    {
+      "uid": "ZNY2XB7UJ",
+      "rid": 14132,
+      "hash": "fcae259c595b3fc30a98b6f4281765f29ebef9d1c5742eb68d31737678632b86",
+      "t": 17364,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-11-09T16:00:08Z",
+      "zip": "00017364_STEAM_0_1_771348382_20251109-160008.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_svet-20251109-#ZNY2XB7UJ.analysis.json",
+          "off": 77,
+          "size": 214015
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_svet-20251109-#ZNY2XB7UJ.dem",
+          "off": 214159,
+          "size": 154756
+        },
+        {
+          "type": "replay",
+          "name": "14132.replay.xz",
+          "off": 368960,
+          "size": 31996
+        }
+      ]
+    },
+    {
+      "uid": "H6IHFGN4L",
+      "rid": 14130,
+      "hash": "f5937e999fbbbc8a8680902a3260824779844ece2e6f9a3e65f5b8a7195d4ec8",
+      "t": 17668,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-11-09T15:49:34Z",
+      "zip": "00017668_STEAM_0_1_926467834_20251109-154934.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_svet-20251109-#H6IHFGN4L.analysis.json",
+          "off": 77,
+          "size": 201595
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_svet-20251109-#H6IHFGN4L.dem",
+          "off": 201739,
+          "size": 156324
+        },
+        {
+          "type": "replay",
+          "name": "14130.replay.xz",
+          "off": 358108,
+          "size": 31888
+        }
+      ]
+    },
+    {
+      "uid": "DGR394FIU",
+      "rid": 35544,
+      "hash": "0cce42d33cb40510d7acaa5897bc6f50df5ae234be5ea02c1544474c9223ea28",
+      "t": 20320,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-03-08T22:11:45Z",
+      "zip": "00020320_STEAM_0_1_29970948_20260308-221145.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_svet-20260308-#DGR394FIU.analysis.json",
+          "off": 77,
+          "size": 158039
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_svet-20260308-#DGR394FIU.dem",
+          "off": 158183,
+          "size": 168800
+        },
+        {
+          "type": "replay",
+          "name": "35544.replay.xz",
+          "off": 327028,
+          "size": 23964
+        }
+      ]
+    },
+    {
+      "uid": "PSOIV2WMU",
+      "rid": 20540,
+      "hash": "216574d3f3af89d2d66e81ac077035a49018b10f51020010d59f5f0af4617665",
+      "t": 20357,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-12-06T17:41:19Z",
+      "zip": "00020357_STEAM_0_1_29970948_20251206-174119.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_svet-20251206-#PSOIV2WMU.analysis.json",
+          "off": 77,
+          "size": 151862
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_svet-20251206-#PSOIV2WMU.dem",
+          "off": 152006,
+          "size": 171604
+        },
+        {
+          "type": "replay",
+          "name": "20540.replay.xz",
+          "off": 323655,
+          "size": 24348
+        }
+      ]
+    }
+  ]
+}

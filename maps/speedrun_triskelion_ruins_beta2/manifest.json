@@ -1,0 +1,267 @@
+{
+  "map": "speedrun_triskelion_ruins_beta2",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "82DHAE11P",
+      "rid": 13186,
+      "hash": "0baac7e8a303fc656732599d76330b2f00e5ee57e84e8ec4765b3be77634b48b",
+      "t": 13001,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-02T20:36:05Z",
+      "zip": "00013001_STEAM_0_1_29970948_20251102-203605.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#82DHAE11P.analysis.json",
+          "off": 95,
+          "size": 330597
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#82DHAE11P.dem",
+          "off": 330777,
+          "size": 173097
+        },
+        {
+          "type": "replay",
+          "name": "13186.replay.xz",
+          "off": 503919,
+          "size": 43600
+        }
+      ]
+    },
+    {
+      "uid": "M69J7X4UF",
+      "rid": 16632,
+      "hash": "2528b01ecb7f63b65d9ad7381760ae1113515287b9f51ef08b98f3f5000f0e33",
+      "t": 13516,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-11-21T02:49:02Z",
+      "zip": "00013516_STEAM_0_1_408712_20251121-024902.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251121-#M69J7X4UF.analysis.json",
+          "off": 95,
+          "size": 154713
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251121-#M69J7X4UF.dem",
+          "off": 154893,
+          "size": 143336
+        },
+        {
+          "type": "replay",
+          "name": "16632.replay.xz",
+          "off": 298274,
+          "size": 25356
+        }
+      ]
+    },
+    {
+      "uid": "MD1A10F3Z",
+      "rid": 13513,
+      "hash": "461abffd1e9bf9987221c9e57dbfd90689ebab454648bee05e65e5db41d78ed1",
+      "t": 13574,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-04T15:10:43Z",
+      "zip": "00013574_STEAM_0_1_796767048_20251104-151043.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251104-#MD1A10F3Z.analysis.json",
+          "off": 95,
+          "size": 150821
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251104-#MD1A10F3Z.dem",
+          "off": 151001,
+          "size": 133188
+        },
+        {
+          "type": "replay",
+          "name": "13513.replay.xz",
+          "off": 284234,
+          "size": 25820
+        }
+      ]
+    },
+    {
+      "uid": "4BV7XACQD",
+      "rid": 13197,
+      "hash": "0031e8df26e11489f26f09afb9804e9ebb3542f76225a3ec70089b87dee4ea49",
+      "t": 13667,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-11-02T20:42:43Z",
+      "zip": "00013667_STEAM_0_0_24751394_20251102-204243.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#4BV7XACQD.analysis.json",
+          "off": 95,
+          "size": 188634
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#4BV7XACQD.dem",
+          "off": 188814,
+          "size": 153531
+        },
+        {
+          "type": "replay",
+          "name": "13197.replay.xz",
+          "off": 342390,
+          "size": 25740
+        }
+      ]
+    },
+    {
+      "uid": "TOB5A4BKA",
+      "rid": 13175,
+      "hash": "8243c9c65c1937feb31d7ecff5e0806706ec51e8c5e6f2b44d2965ca113a5bcf",
+      "t": 13798,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-02T20:27:24Z",
+      "zip": "00013798_STEAM_0_1_796767048_20251102-202724.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#TOB5A4BKA.analysis.json",
+          "off": 95,
+          "size": 157722
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#TOB5A4BKA.dem",
+          "off": 157902,
+          "size": 146580
+        },
+        {
+          "type": "replay",
+          "name": "13175.replay.xz",
+          "off": 304527,
+          "size": 25680
+        }
+      ]
+    },
+    {
+      "uid": "HC8FMLBR9",
+      "rid": 13070,
+      "hash": "f3fa99ac8c098c31cfa3267a8626498032d33b7582885e42709ce871c9625a9c",
+      "t": 14428,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-02T00:07:12Z",
+      "zip": "00014428_STEAM_0_1_29970948_20251102-000712.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#HC8FMLBR9.analysis.json",
+          "off": 95,
+          "size": 192052
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#HC8FMLBR9.dem",
+          "off": 192232,
+          "size": 150879
+        },
+        {
+          "type": "replay",
+          "name": "13070.replay.xz",
+          "off": 343156,
+          "size": 26784
+        }
+      ]
+    },
+    {
+      "uid": "QK9JQMZGJ",
+      "rid": 16619,
+      "hash": "ff5136ee25135f38f4f62afe571f4a62deef60549af3e1206ab7960db102da17",
+      "t": 15799,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-11-21T02:33:34Z",
+      "zip": "00015799_STEAM_0_1_408712_20251121-023334.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251121-#QK9JQMZGJ.analysis.json",
+          "off": 95,
+          "size": 120867
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251121-#QK9JQMZGJ.dem",
+          "off": 121047,
+          "size": 150261
+        },
+        {
+          "type": "replay",
+          "name": "16619.replay.xz",
+          "off": 271353,
+          "size": 19092
+        }
+      ]
+    },
+    {
+      "uid": "0T8TBE2F6",
+      "rid": 13067,
+      "hash": "b6e6aa8278254017edee198a848b3032699f19b33145e76f0c17b849884eba30",
+      "t": 16389,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-02T00:02:36Z",
+      "zip": "00016389_STEAM_0_1_29970948_20251102-000236.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#0T8TBE2F6.analysis.json",
+          "off": 95,
+          "size": 133904
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#0T8TBE2F6.dem",
+          "off": 134084,
+          "size": 148837
+        },
+        {
+          "type": "replay",
+          "name": "13067.replay.xz",
+          "off": 282966,
+          "size": 19680
+        }
+      ]
+    },
+    {
+      "uid": "VNCWLL8PY",
+      "rid": 13058,
+      "hash": "2bbeb22ba2680b54ac6899f851b6da81246c73acd4c86b3ccfd6de1edf4176fd",
+      "t": 17091,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-01T22:24:46Z",
+      "zip": "00017091_STEAM_0_1_29970948_20251101-222446.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251101-#VNCWLL8PY.analysis.json",
+          "off": 95,
+          "size": 139729
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251101-#VNCWLL8PY.dem",
+          "off": 139909,
+          "size": 149111
+        },
+        {
+          "type": "replay",
+          "name": "13058.replay.xz",
+          "off": 289065,
+          "size": 20524
+        }
+      ]
+    }
+  ]
+}

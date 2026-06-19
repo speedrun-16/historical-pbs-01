@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_sick",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "8LK4QTOLS",
+      "rid": 21587,
+      "hash": "4790c6dfef9f74ac2aca34b7097805a5683bb91f0b3403c99c559d04f01ab81e",
+      "t": 15467,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-12-12T05:50:33Z",
+      "zip": "00015467_STEAM_0_1_926467834_20251212-055033.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_sick-20251212-#8LK4QTOLS.analysis.json",
+          "off": 77,
+          "size": 181266
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_sick-20251212-#8LK4QTOLS.dem",
+          "off": 181410,
+          "size": 141437
+        },
+        {
+          "type": "replay",
+          "name": "21587.replay.xz",
+          "off": 322892,
+          "size": 29220
+        }
+      ]
+    }
+  ]
+}

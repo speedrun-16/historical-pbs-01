@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_arctic",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "CV1W88YXK",
+      "rid": 25812,
+      "hash": "c8de815a12a4a89ae71c659b56c3d5643cde06fa0dfb7a95f90c06c831f95199",
+      "t": 23690,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-01-08T11:44:08Z",
+      "zip": "00023690_STEAM_0_1_926467834_20260108-114408.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_arctic-20260108-#CV1W88YXK.analysis.json",
+          "off": 79,
+          "size": 364549
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_arctic-20260108-#CV1W88YXK.dem",
+          "off": 364697,
+          "size": 217987
+        },
+        {
+          "type": "replay",
+          "name": "25812.replay.xz",
+          "off": 582729,
+          "size": 54036
+        }
+      ]
+    }
+  ]
+}

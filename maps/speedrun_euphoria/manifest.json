@@ -1,0 +1,180 @@
+{
+  "map": "speedrun_euphoria",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "W2W2NY96G",
+      "rid": 2491,
+      "hash": "83bca8fe9d49c66f9b2320b4c8a4afb226fb51937df1e66d5a270e6356f20b89",
+      "t": 19832,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-09-17T17:58:53Z",
+      "zip": "00019832_STEAM_0_0_35544084_20250917-175853.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_euphoria-20250917-#W2W2NY96G.analysis.json",
+          "off": 81,
+          "size": 1207101
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_euphoria-20250917-#W2W2NY96G.dem",
+          "off": 1207253,
+          "size": 323588
+        },
+        {
+          "type": "replay",
+          "name": "2491.replay.xz",
+          "off": 1530885,
+          "size": 137248
+        }
+      ]
+    },
+    {
+      "uid": "B1GAH8D4Y",
+      "rid": 2512,
+      "hash": "b9211e47fa9b77445369495f0e2a9d713893e582990cb5eb9c2c3ef4b5c5eeff",
+      "t": 23903,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-09-17T18:15:20Z",
+      "zip": "00023903_STEAM_0_1_796767048_20250917-181520.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_euphoria-20250917-#B1GAH8D4Y.analysis.json",
+          "off": 81,
+          "size": 248759
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_euphoria-20250917-#B1GAH8D4Y.dem",
+          "off": 248911,
+          "size": 216750
+        },
+        {
+          "type": "replay",
+          "name": "2512.replay.xz",
+          "off": 465705,
+          "size": 44860
+        }
+      ]
+    },
+    {
+      "uid": "SMOOQ58EK",
+      "rid": 2492,
+      "hash": "4dd80dc02f8b002e6edc895779e73c22a7ea945877c96b30906d18cd04026c49",
+      "t": 24323,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-09-17T17:59:14Z",
+      "zip": "00024323_STEAM_0_1_796767048_20250917-175914.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_euphoria-20250917-#SMOOQ58EK.analysis.json",
+          "off": 81,
+          "size": 277113
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_euphoria-20250917-#SMOOQ58EK.dem",
+          "off": 277265,
+          "size": 217260
+        },
+        {
+          "type": "replay",
+          "name": "2492.replay.xz",
+          "off": 494569,
+          "size": 46252
+        }
+      ]
+    },
+    {
+      "uid": "799CSJ6KM",
+      "rid": 8227,
+      "hash": "556b9f8c7b3a142e44073b317b08f63ebf39539e5385e45dd8d03a76d04407c1",
+      "t": 24720,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-10-05T19:53:37Z",
+      "zip": "00024720_STEAM_0_1_926467834_20251005-195337.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_euphoria-20251005-#799CSJ6KM.analysis.json",
+          "off": 81,
+          "size": 287632
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_euphoria-20251005-#799CSJ6KM.dem",
+          "off": 287784,
+          "size": 210182
+        },
+        {
+          "type": "replay",
+          "name": "8227.replay.xz",
+          "off": 498010,
+          "size": 44132
+        }
+      ]
+    },
+    {
+      "uid": "RGS1TVMO1",
+      "rid": 8231,
+      "hash": "19c843be068b664f81a4bb370c779a9f32c79fecb826bdfcf21e4d9f0442e51c",
+      "t": 25779,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-10-05T20:20:24Z",
+      "zip": "00025779_STEAM_0_1_84733295_20251005-202024.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_euphoria-20251005-#RGS1TVMO1.analysis.json",
+          "off": 81,
+          "size": 317486
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_euphoria-20251005-#RGS1TVMO1.dem",
+          "off": 317638,
+          "size": 233225
+        },
+        {
+          "type": "replay",
+          "name": "8231.replay.xz",
+          "off": 550907,
+          "size": 47048
+        }
+      ]
+    },
+    {
+      "uid": "267VD4SGN",
+      "rid": 40645,
+      "hash": "066fd372961bf6d278d7db64f55c0a740bbf3f4549234522fcd2dae3b2725ef0",
+      "t": 26461,
+      "sid": "STEAM_0:1:447056338",
+      "at": "2026-04-13T02:00:33Z",
+      "zip": "00026461_STEAM_0_1_447056338_20260413-020033.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_euphoria-20260413-#267VD4SGN.analysis.json",
+          "off": 81,
+          "size": 308944
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_euphoria-20260413-#267VD4SGN.dem",
+          "off": 309096,
+          "size": 235304
+        },
+        {
+          "type": "replay",
+          "name": "40645.replay.xz",
+          "off": 544445,
+          "size": 51044
+        }
+      ]
+    }
+  ]
+}

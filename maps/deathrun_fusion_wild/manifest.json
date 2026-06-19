@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_fusion_wild",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "9M3W2CDPX",
+      "rid": 12990,
+      "hash": "8b1f74f7eac1ee653a53b0aaa815f5c34d5f393db551a01b3228e9ae4e7df759",
+      "t": 32686,
+      "sid": "STEAM_0:1:461671282",
+      "at": "2025-11-01T18:15:23Z",
+      "zip": "00032686_STEAM_0_1_461671282_20251101-181523.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_fusion_wild-20251101-#9M3W2CDPX.analysis.json",
+          "off": 84,
+          "size": 1224335
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_fusion_wild-20251101-#9M3W2CDPX.dem",
+          "off": 1224493,
+          "size": 410779
+        },
+        {
+          "type": "replay",
+          "name": "12990.replay.xz",
+          "off": 1635317,
+          "size": 152080
+        }
+      ]
+    }
+  ]
+}

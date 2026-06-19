@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_leszcz",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "X1UVM27RZ",
+      "rid": 3508,
+      "hash": "cbf91b7c7b07a6901f1af05ff07edb6f8cc32f6cb65585f6a32dfb4ba87e6c7d",
+      "t": 14554,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-09-20T02:07:14Z",
+      "zip": "00014554_STEAM_0_1_29970948_20250920-020714.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_leszcz-20250920-#X1UVM27RZ.analysis.json",
+          "off": 79,
+          "size": 172645
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_leszcz-20250920-#X1UVM27RZ.dem",
+          "off": 172793,
+          "size": 152928
+        },
+        {
+          "type": "replay",
+          "name": "3508.replay.xz",
+          "off": 325765,
+          "size": 26960
+        }
+      ]
+    },
+    {
+      "uid": "9DU5ID07Q",
+      "rid": 46758,
+      "hash": "7aa0d4a51cfc959afb9d4a27f77a03dbdc0acb657ae6d51f3a4458dc1f3fb616",
+      "t": 15662,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-29T17:47:33Z",
+      "zip": "00015662_STEAM_0_1_771348382_20260429-174733.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_leszcz-20260429-#9DU5ID07Q.analysis.json",
+          "off": 79,
+          "size": 121559
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_leszcz-20260429-#9DU5ID07Q.dem",
+          "off": 121707,
+          "size": 143995
+        },
+        {
+          "type": "replay",
+          "name": "46758.replay.xz",
+          "off": 265747,
+          "size": 19260
+        }
+      ]
+    },
+    {
+      "uid": "94F28JOV3",
+      "rid": 46770,
+      "hash": "d4b5180fbf125fd2e22b25eb59761d04f911ef0a353493fe612ed672c3610797",
+      "t": 15712,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-04-29T17:54:43Z",
+      "zip": "00015712_STEAM_0_1_155808091_20260429-175443.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_leszcz-20260429-#94F28JOV3.analysis.json",
+          "off": 79,
+          "size": 124359
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_leszcz-20260429-#94F28JOV3.dem",
+          "off": 124507,
+          "size": 140938
+        },
+        {
+          "type": "replay",
+          "name": "46770.replay.xz",
+          "off": 265490,
+          "size": 19248
+        }
+      ]
+    }
+  ]
+}

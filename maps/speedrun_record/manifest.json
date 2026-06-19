@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_record",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "YNNLHAMTN",
+      "rid": 20365,
+      "hash": "1c73abbff7f654db3a6867fa7e113353e712b99aee8969256472316e8e0100b6",
+      "t": 15982,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-12-06T05:59:06Z",
+      "zip": "00015982_STEAM_0_1_29970948_20251206-055906.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_record-20251206-#YNNLHAMTN.analysis.json",
+          "off": 79,
+          "size": 129717
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_record-20251206-#YNNLHAMTN.dem",
+          "off": 129865,
+          "size": 147541
+        },
+        {
+          "type": "replay",
+          "name": "20365.replay.xz",
+          "off": 277451,
+          "size": 18752
+        }
+      ]
+    }
+  ]
+}

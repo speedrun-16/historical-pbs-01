@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_Domination",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "04E46UCP3",
+      "rid": 3776,
+      "hash": "b325d223579a58db19b7d6ece2b257dead50fe3dfbd0791e2a36a768077e7d81",
+      "t": 16672,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-20T16:05:53Z",
+      "zip": "00016672_STEAM_0_1_771348382_20250920-160553.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_Domination-20250920-#04E46UCP3.analysis.json",
+          "off": 83,
+          "size": 183576
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_Domination-20250920-#04E46UCP3.dem",
+          "off": 183732,
+          "size": 160648
+        },
+        {
+          "type": "replay",
+          "name": "3776.replay.xz",
+          "off": 344424,
+          "size": 31296
+        }
+      ]
+    },
+    {
+      "uid": "Y5MIOIRYN",
+      "rid": 1095,
+      "hash": "5c550d9746277f87d5aebb027d9002f90c3e9e441fb0b389d0dbbd02701daf1a",
+      "t": 16919,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-09-15T20:12:44Z",
+      "zip": "00016919_STEAM_0_1_926467834_20250915-201244.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_Domination-20250915-#Y5MIOIRYN.analysis.json",
+          "off": 83,
+          "size": 207746
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_Domination-20250915-#Y5MIOIRYN.dem",
+          "off": 207902,
+          "size": 159498
+        },
+        {
+          "type": "replay",
+          "name": "1095.replay.xz",
+          "off": 367444,
+          "size": 30784
+        }
+      ]
+    },
+    {
+      "uid": "4HFQYXTFT",
+      "rid": 558,
+      "hash": "d4e3b7c538be8f0249103bb8898e71df1ab8b7a67f3b0acec4427617b30fda2e",
+      "t": 16927,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-09-14T20:06:40Z",
+      "zip": "00016927_STEAM_0_1_926467834_20250914-200640.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_Domination-20250914-#4HFQYXTFT.analysis.json",
+          "off": 83,
+          "size": 206771
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_Domination-20250914-#4HFQYXTFT.dem",
+          "off": 206927,
+          "size": 155851
+        },
+        {
+          "type": "replay",
+          "name": "558.replay.xz",
+          "off": 362821,
+          "size": 30928
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_fusion_ancient",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "3EW3DIPIV",
+      "rid": 1577,
+      "hash": "946cbb5fc591f2b3343259633530083927b4a51e70dc12202751017bcf220ac7",
+      "t": 12809,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-09-16T15:43:15Z",
+      "zip": "00012809_STEAM_0_0_24751394_20250916-154315.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_fusion_ancient-20250916-#3EW3DIPIV.analysis.json",
+          "off": 87,
+          "size": 154759
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_fusion_ancient-20250916-#3EW3DIPIV.dem",
+          "off": 154923,
+          "size": 127968
+        },
+        {
+          "type": "replay",
+          "name": "1577.replay.xz",
+          "off": 282935,
+          "size": 24312
+        }
+      ]
+    }
+  ]
+}

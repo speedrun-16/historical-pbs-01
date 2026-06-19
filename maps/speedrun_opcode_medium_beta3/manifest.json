@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_opcode_medium_beta3",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "AB7TKHL7G",
+      "rid": 32359,
+      "hash": "4d86fa2aa2c2c59ce564ffd364710fb4593d5cf4309cf8e594518b4d310aa597",
+      "t": 10237,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-02-07T02:10:17Z",
+      "zip": "00010237_STEAM_0_1_771348382_20260207-021017.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_opcode_medium_beta3-20260207-#AB7TKHL7G.analysis.json",
+          "off": 92,
+          "size": 143258
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_opcode_medium_beta3-20260207-#AB7TKHL7G.dem",
+          "off": 143432,
+          "size": 110221
+        },
+        {
+          "type": "replay",
+          "name": "32359.replay.xz",
+          "off": 253698,
+          "size": 20300
+        }
+      ]
+    },
+    {
+      "uid": "EDJ75O459",
+      "rid": 32368,
+      "hash": "0e5463b7be6e9aaf77bf73a1c11f44d0fc6a0c26a7814c676d37bc068d62f2bc",
+      "t": 11483,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-02-07T02:28:01Z",
+      "zip": "00011483_STEAM_0_1_771348382_20260207-022801.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_opcode_medium_beta3-20260207-#EDJ75O459.analysis.json",
+          "off": 92,
+          "size": 97451
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_opcode_medium_beta3-20260207-#EDJ75O459.dem",
+          "off": 97625,
+          "size": 104944
+        },
+        {
+          "type": "replay",
+          "name": "32368.replay.xz",
+          "off": 202614,
+          "size": 15024
+        }
+      ]
+    },
+    {
+      "uid": "DWT48ABE3",
+      "rid": 46115,
+      "hash": "c845df9e166e6217cf9f530e1ba8d2e70cd7840e870bbbbdd9affe2fdfc93f17",
+      "t": 11678,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-04-28T05:58:58Z",
+      "zip": "00011678_STEAM_0_1_155808091_20260428-055858.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_opcode_medium_beta3-20260428-#DWT48ABE3.analysis.json",
+          "off": 92,
+          "size": 98076
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_opcode_medium_beta3-20260428-#DWT48ABE3.dem",
+          "off": 98250,
+          "size": 111905
+        },
+        {
+          "type": "replay",
+          "name": "46115.replay.xz",
+          "off": 210200,
+          "size": 15040
+        }
+      ]
+    }
+  ]
+}

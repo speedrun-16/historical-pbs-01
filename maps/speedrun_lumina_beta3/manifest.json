@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_lumina_beta3",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "YJ53E3EFK",
+      "rid": 45294,
+      "hash": "cbe46f0c8c69bb7f6f0f9057126a42a18f420f43f9847e25d567403b20af8ee2",
+      "t": 40876,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-04-26T17:30:30Z",
+      "zip": "00040876_STEAM_0_1_155808091_20260426-173030.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_lumina_beta3-20260426-#YJ53E3EFK.analysis.json",
+          "off": 85,
+          "size": 272964
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_lumina_beta3-20260426-#YJ53E3EFK.dem",
+          "off": 273124,
+          "size": 300462
+        },
+        {
+          "type": "replay",
+          "name": "45294.replay.xz",
+          "off": 573631,
+          "size": 48156
+        }
+      ]
+    },
+    {
+      "uid": "XFJ0QKBBO",
+      "rid": 43563,
+      "hash": "82a82cdb5db160a94205ecaf8b66dd44584e6f41f3edff21fe349bf5f45f6923",
+      "t": 41447,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-04-21T16:30:19Z",
+      "zip": "00041447_STEAM_0_1_408712_20260421-163019.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_lumina_beta3-20260421-#XFJ0QKBBO.analysis.json",
+          "off": 85,
+          "size": 288406
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_lumina_beta3-20260421-#XFJ0QKBBO.dem",
+          "off": 288566,
+          "size": 319616
+        },
+        {
+          "type": "replay",
+          "name": "43563.replay.xz",
+          "off": 608227,
+          "size": 48320
+        }
+      ]
+    },
+    {
+      "uid": "I6UX3N4U0",
+      "rid": 43315,
+      "hash": "920abb55191036e3882b6158d27ff620f72f59ea460bbf37a3a130b489ab2c64",
+      "t": 41595,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-04-20T14:26:11Z",
+      "zip": "00041595_STEAM_0_1_408712_20260420-142611.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_lumina_beta3-20260420-#I6UX3N4U0.analysis.json",
+          "off": 85,
+          "size": 294798
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_lumina_beta3-20260420-#I6UX3N4U0.dem",
+          "off": 294958,
+          "size": 320226
+        },
+        {
+          "type": "replay",
+          "name": "43315.replay.xz",
+          "off": 615229,
+          "size": 47624
+        }
+      ]
+    }
+  ]
+}

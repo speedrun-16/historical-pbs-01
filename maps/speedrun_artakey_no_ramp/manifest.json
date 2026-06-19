@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_artakey_no_ramp",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "4VF7P7N7C",
+      "rid": 9215,
+      "hash": "f2422d76012007ab983b97f6a83bb131a86cc41334481b80ae299f23cf2ad4de",
+      "t": 13228,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-10-11T14:11:43Z",
+      "zip": "00013228_STEAM_0_1_771348382_20251011-141143.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_artakey_no_ramp-20251011-#4VF7P7N7C.analysis.json",
+          "off": 88,
+          "size": 513187
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_artakey_no_ramp-20251011-#4VF7P7N7C.dem",
+          "off": 513353,
+          "size": 192998
+        },
+        {
+          "type": "replay",
+          "name": "9215.replay.xz",
+          "off": 706395,
+          "size": 66888
+        }
+      ]
+    },
+    {
+      "uid": "1J6JWIWK2",
+      "rid": 9210,
+      "hash": "89cde5eb35b1f788f0e2df6c30a5262fbfdde090d78133a28cbf3383c2503ed4",
+      "t": 17668,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-10-11T13:58:03Z",
+      "zip": "00017668_STEAM_0_1_771348382_20251011-135803.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_artakey_no_ramp-20251011-#1J6JWIWK2.analysis.json",
+          "off": 88,
+          "size": 218255
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_artakey_no_ramp-20251011-#1J6JWIWK2.dem",
+          "off": 218421,
+          "size": 151976
+        },
+        {
+          "type": "replay",
+          "name": "9210.replay.xz",
+          "off": 370441,
+          "size": 32812
+        }
+      ]
+    },
+    {
+      "uid": "HRZZBW7EX",
+      "rid": 9198,
+      "hash": "abe5a846f333c15f403b042daf4a26427868ccc8aaae99fd38b0eed741229bad",
+      "t": 17838,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-10-11T02:46:43Z",
+      "zip": "00017838_STEAM_0_1_926467834_20251011-024643.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_artakey_no_ramp-20251011-#HRZZBW7EX.analysis.json",
+          "off": 88,
+          "size": 217034
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_artakey_no_ramp-20251011-#HRZZBW7EX.dem",
+          "off": 217200,
+          "size": 160013
+        },
+        {
+          "type": "replay",
+          "name": "9198.replay.xz",
+          "off": 377257,
+          "size": 32900
+        }
+      ]
+    }
+  ]
+}

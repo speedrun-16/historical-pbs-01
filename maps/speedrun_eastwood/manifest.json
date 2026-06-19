@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_eastwood",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "THQFON7A0",
+      "rid": 9944,
+      "hash": "c13c0fab7e0d205079d4cdf4e1f247525971c2ac7f7ded0230974cab489310ed",
+      "t": 20337,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-10-17T17:57:04Z",
+      "zip": "00020337_STEAM_0_0_24751394_20251017-175704.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20251017-#THQFON7A0.analysis.json",
+          "off": 81,
+          "size": 153118
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20251017-#THQFON7A0.dem",
+          "off": 153270,
+          "size": 165405
+        },
+        {
+          "type": "replay",
+          "name": "9944.replay.xz",
+          "off": 318719,
+          "size": 23672
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_icemaru",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "6TM6NK4LK",
+      "rid": 57833,
+      "hash": "1438c7c7242c3933f0c7e0a08d15c10006ccc970a4b889ad5ba2e48019cf8cab",
+      "t": 13367,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-28T23:59:48Z",
+      "zip": "00013367_STEAM_0_1_771348382_20260528-235948.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_icemaru-20260528-#6TM6NK4LK.analysis.json",
+          "off": 80,
+          "size": 172813
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_icemaru-20260528-#6TM6NK4LK.dem",
+          "off": 172963,
+          "size": 137256
+        },
+        {
+          "type": "replay",
+          "name": "57833.replay.xz",
+          "off": 310264,
+          "size": 25348
+        }
+      ]
+    }
+  ]
+}

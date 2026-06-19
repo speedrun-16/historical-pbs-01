@@ -1,0 +1,151 @@
+{
+  "map": "speedrun_poland",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "CHVWFLTUV",
+      "rid": 14802,
+      "hash": "4e30433df686805a547d70a3b5c4f462f159c84670a53c31ff4e31f0e17a026b",
+      "t": 12912,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-14T17:23:23Z",
+      "zip": "00012912_STEAM_0_1_796767048_20251114-172323.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_poland-20251114-#CHVWFLTUV.analysis.json",
+          "off": 79,
+          "size": 150460
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_poland-20251114-#CHVWFLTUV.dem",
+          "off": 150608,
+          "size": 129705
+        },
+        {
+          "type": "replay",
+          "name": "14802.replay.xz",
+          "off": 280358,
+          "size": 25768
+        }
+      ]
+    },
+    {
+      "uid": "8UGW9IJH1",
+      "rid": 10387,
+      "hash": "a1cb140177a8132e40aee98c13b82d53a1e56a4e39ee64232e0790425bc6150a",
+      "t": 12988,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-10-19T17:36:58Z",
+      "zip": "00012988_STEAM_0_1_796767048_20251019-173658.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_poland-20251019-#8UGW9IJH1.analysis.json",
+          "off": 79,
+          "size": 156959
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_poland-20251019-#8UGW9IJH1.dem",
+          "off": 157107,
+          "size": 136843
+        },
+        {
+          "type": "replay",
+          "name": "10387.replay.xz",
+          "off": 293995,
+          "size": 24920
+        }
+      ]
+    },
+    {
+      "uid": "DFHR1WSNO",
+      "rid": 7057,
+      "hash": "2cab994eb8db25332fff05fae81659ca327cb08a328b5ebf2f17c5314704b30e",
+      "t": 13045,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-09-30T18:22:59Z",
+      "zip": "00013045_STEAM_0_1_796767048_20250930-182259.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_poland-20250930-#DFHR1WSNO.analysis.json",
+          "off": 79,
+          "size": 150060
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_poland-20250930-#DFHR1WSNO.dem",
+          "off": 150208,
+          "size": 145875
+        },
+        {
+          "type": "replay",
+          "name": "7057.replay.xz",
+          "off": 296127,
+          "size": 25180
+        }
+      ]
+    },
+    {
+      "uid": "PE0B13RNU",
+      "rid": 7038,
+      "hash": "3ec14938bb7994b28b79eece257793203132609458b186110ce7043b6167c511",
+      "t": 13100,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-09-30T17:58:26Z",
+      "zip": "00013100_STEAM_0_1_796767048_20250930-175826.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_poland-20250930-#PE0B13RNU.analysis.json",
+          "off": 79,
+          "size": 156421
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_poland-20250930-#PE0B13RNU.dem",
+          "off": 156569,
+          "size": 132103
+        },
+        {
+          "type": "replay",
+          "name": "7038.replay.xz",
+          "off": 288716,
+          "size": 25340
+        }
+      ]
+    },
+    {
+      "uid": "4QOZ7F86M",
+      "rid": 10408,
+      "hash": "68f96db438c795f26b21935cc7d5811214d83b496aa620fdec9327991c656b87",
+      "t": 15386,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-10-19T17:56:04Z",
+      "zip": "00015386_STEAM_0_0_24751394_20251019-175604.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_poland-20251019-#4QOZ7F86M.analysis.json",
+          "off": 79,
+          "size": 123529
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_poland-20251019-#4QOZ7F86M.dem",
+          "off": 123677,
+          "size": 141642
+        },
+        {
+          "type": "replay",
+          "name": "10408.replay.xz",
+          "off": 265364,
+          "size": 19420
+        }
+      ]
+    }
+  ]
+}

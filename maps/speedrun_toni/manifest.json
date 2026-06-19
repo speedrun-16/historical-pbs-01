@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_toni",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "0RKDNQTD9",
+      "rid": 61152,
+      "hash": "01916a43ac825c0cf77d4c2b15a3edef1d3471870f461e50ecb4b834f25839e2",
+      "t": 9225,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-06-05T17:58:23Z",
+      "zip": "00009225_STEAM_0_1_87291981_20260605-175823.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_toni-20260605-#0RKDNQTD9.analysis.json",
+          "off": 77,
+          "size": 662307
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_toni-20260605-#0RKDNQTD9.dem",
+          "off": 662451,
+          "size": 163415
+        },
+        {
+          "type": "replay",
+          "name": "61152.replay.xz",
+          "off": 825911,
+          "size": 77608
+        }
+      ]
+    },
+    {
+      "uid": "8UJMZD5X8",
+      "rid": 61147,
+      "hash": "b8f9a818411269f67a58f589a1f87a329e3967dd65d04810b5284304f0a98795",
+      "t": 9929,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-06-05T17:57:24Z",
+      "zip": "00009929_STEAM_0_1_87291981_20260605-175724.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_toni-20260605-#8UJMZD5X8.analysis.json",
+          "off": 77,
+          "size": 451612
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_toni-20260605-#8UJMZD5X8.dem",
+          "off": 451756,
+          "size": 139159
+        },
+        {
+          "type": "replay",
+          "name": "61147.replay.xz",
+          "off": 590960,
+          "size": 56492
+        }
+      ]
+    },
+    {
+      "uid": "EV79POEOI",
+      "rid": 61144,
+      "hash": "c94f2324ca3f506f04b59cb1ad2384795343f05fa3bf3cdde3fb09e088dcdf15",
+      "t": 11348,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-06-05T17:56:22Z",
+      "zip": "00011348_STEAM_0_1_87291981_20260605-175622.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_toni-20260605-#EV79POEOI.analysis.json",
+          "off": 77,
+          "size": 309829
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_toni-20260605-#EV79POEOI.dem",
+          "off": 309973,
+          "size": 123311
+        },
+        {
+          "type": "replay",
+          "name": "61144.replay.xz",
+          "off": 433329,
+          "size": 40316
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "map": "speedrun_pupsik",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "TQ7LDQIGS",
+      "rid": 12974,
+      "hash": "32a2ed73d86f9396646bd25ad2ebb17020a37de45fa53e9b28f9bf0a017614cf",
+      "t": 7113,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-01T09:21:02Z",
+      "zip": "00007113_STEAM_0_0_35544084_20251101-092102.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pupsik-20251101-#TQ7LDQIGS.analysis.json",
+          "off": 79,
+          "size": 850926
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pupsik-20251101-#TQ7LDQIGS.dem",
+          "off": 851074,
+          "size": 194095
+        },
+        {
+          "type": "replay",
+          "name": "12974.replay.xz",
+          "off": 1045214,
+          "size": 64180
+        }
+      ]
+    },
+    {
+      "uid": "BGHOYCZDM",
+      "rid": 23849,
+      "hash": "d81f0da1408405e1b3ed15889bdda273ccddeff657ffdc2935b709f5ca6cea59",
+      "t": 9307,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-12-25T22:48:18Z",
+      "zip": "00009307_STEAM_0_1_408712_20251225-224818.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pupsik-20251225-#BGHOYCZDM.analysis.json",
+          "off": 79,
+          "size": 118452
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pupsik-20251225-#BGHOYCZDM.dem",
+          "off": 118600,
+          "size": 118374
+        },
+        {
+          "type": "replay",
+          "name": "23849.replay.xz",
+          "off": 237019,
+          "size": 18560
+        }
+      ]
+    },
+    {
+      "uid": "NYIMLRSXE",
+      "rid": 24703,
+      "hash": "ecc3a96615a814403efb38738a9b9d03c6645b7a4ccfbf65b1e639d14bde928e",
+      "t": 9591,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-12-31T11:12:51Z",
+      "zip": "00009591_STEAM_0_1_84733295_20251231-111251.zip",
+      "files": [
+        {
+          "type": "file",
+          "name": "net-24703.movement.bin",
+          "off": 52,
+          "size": 35778
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_pupsik-20251231-#NYIMLRSXE.analysis.json",
+          "off": 35909,
+          "size": 16228
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pupsik-20251231-#NYIMLRSXE.dem",
+          "off": 52206,
+          "size": 123219
+        }
+      ]
+    },
+    {
+      "uid": "1BST4XUPN",
+      "rid": 11463,
+      "hash": "83bdc4ccf524d907495d73f9221290a153cfea35af83f9f0eae12ff811e9f5f7",
+      "t": 9692,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-10-22T22:10:11Z",
+      "zip": "00009692_STEAM_0_1_84733295_20251022-221011.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pupsik-20251022-#1BST4XUPN.analysis.json",
+          "off": 79,
+          "size": 131789
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pupsik-20251022-#1BST4XUPN.dem",
+          "off": 131937,
+          "size": 103735
+        },
+        {
+          "type": "replay",
+          "name": "11463.replay.xz",
+          "off": 235717,
+          "size": 18736
+        }
+      ]
+    },
+    {
+      "uid": "LBYDBQQKT",
+      "rid": 5883,
+      "hash": "45e572a1961f508568251b07adb1ef66d8f2df91a369e37ddfcae8cc929ecdc1",
+      "t": 9721,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-09-27T07:20:39Z",
+      "zip": "00009721_STEAM_0_1_29970948_20250927-072039.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pupsik-20250927-#LBYDBQQKT.analysis.json",
+          "off": 79,
+          "size": 138349
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pupsik-20250927-#LBYDBQQKT.dem",
+          "off": 138497,
+          "size": 105850
+        },
+        {
+          "type": "replay",
+          "name": "5883.replay.xz",
+          "off": 244391,
+          "size": 19012
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_govno",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "JJX6DICDH",
+      "rid": 12433,
+      "hash": "3cbdb675485b0f5c3d98e4912d362e86fbc4310df40f11c038bd6d9aee3d0b96",
+      "t": 10392,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-10-28T15:43:49Z",
+      "zip": "00010392_STEAM_0_1_84733295_20251028-154349.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_govno-20251028-#JJX6DICDH.analysis.json",
+          "off": 78,
+          "size": 150161
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_govno-20251028-#JJX6DICDH.dem",
+          "off": 150307,
+          "size": 117157
+        },
+        {
+          "type": "replay",
+          "name": "12433.replay.xz",
+          "off": 267509,
+          "size": 21240
+        }
+      ]
+    }
+  ]
+}

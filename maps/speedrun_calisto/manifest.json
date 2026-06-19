@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_calisto",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "WB10TAJOD",
+      "rid": 10672,
+      "hash": "13d9b14a33d7abb1d30fb38a5b37f1edf9f97ad0933d196a3b7beb99c039195c",
+      "t": 12643,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-10-20T18:13:38Z",
+      "zip": "00012643_STEAM_0_0_35544084_20251020-181338.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_calisto-20251020-#WB10TAJOD.analysis.json",
+          "off": 80,
+          "size": 798596
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_calisto-20251020-#WB10TAJOD.dem",
+          "off": 798746,
+          "size": 214710
+        },
+        {
+          "type": "replay",
+          "name": "10672.replay.xz",
+          "off": 1013501,
+          "size": 88292
+        }
+      ]
+    },
+    {
+      "uid": "OFUHH2NTA",
+      "rid": 18437,
+      "hash": "fb450d1fab0fdab26dd9779d46566dadd433b37b2d54ea06a18a0cfb555c096b",
+      "t": 13894,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-11-29T22:36:31Z",
+      "zip": "00013894_STEAM_0_1_926467834_20251129-223631.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_calisto-20251129-#OFUHH2NTA.analysis.json",
+          "off": 80,
+          "size": 166560
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_calisto-20251129-#OFUHH2NTA.dem",
+          "off": 166710,
+          "size": 129145
+        },
+        {
+          "type": "replay",
+          "name": "18437.replay.xz",
+          "off": 295900,
+          "size": 26280
+        }
+      ]
+    },
+    {
+      "uid": "VJVUWLLJE",
+      "rid": 18424,
+      "hash": "ad3dc85423eaa8eb2e088e7f073d86801338e1a1945a18268ac62b51465768c8",
+      "t": 15001,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-11-29T16:11:27Z",
+      "zip": "00015001_STEAM_0_1_926467834_20251129-161127.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_calisto-20251129-#VJVUWLLJE.analysis.json",
+          "off": 80,
+          "size": 183653
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_calisto-20251129-#VJVUWLLJE.dem",
+          "off": 183803,
+          "size": 133401
+        },
+        {
+          "type": "replay",
+          "name": "18424.replay.xz",
+          "off": 317249,
+          "size": 26260
+        }
+      ]
+    }
+  ]
+}

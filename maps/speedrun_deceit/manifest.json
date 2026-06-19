@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_deceit",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "K8W9ZO6L1",
+      "rid": 10168,
+      "hash": "470bde7ab7916ee9e4a92cc0c1b6c89d0127a646128a262ffc4908f9c7a43d59",
+      "t": 14576,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-10-18T16:37:06Z",
+      "zip": "00014576_STEAM_0_1_926467834_20251018-163706.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_deceit-20251018-#K8W9ZO6L1.analysis.json",
+          "off": 79,
+          "size": 167606
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_deceit-20251018-#K8W9ZO6L1.dem",
+          "off": 167754,
+          "size": 139987
+        },
+        {
+          "type": "replay",
+          "name": "10168.replay.xz",
+          "off": 307786,
+          "size": 26756
+        }
+      ]
+    }
+  ]
+}

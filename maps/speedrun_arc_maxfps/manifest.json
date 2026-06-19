@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_arc_maxfps",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "CU1AQA6A5",
+      "rid": 31839,
+      "hash": "b5330494398dccd07324e39247739bf3627338b094d415a7c254f3ac8bf19455",
+      "t": 24922,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-02-03T11:01:39Z",
+      "zip": "00024922_STEAM_0_1_29970948_20260203-110139.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_arc_maxfps-20260203-#CU1AQA6A5.analysis.json",
+          "off": 83,
+          "size": 283058
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_arc_maxfps-20260203-#CU1AQA6A5.dem",
+          "off": 283214,
+          "size": 229722
+        },
+        {
+          "type": "replay",
+          "name": "31839.replay.xz",
+          "off": 512981,
+          "size": 46028
+        }
+      ]
+    }
+  ]
+}

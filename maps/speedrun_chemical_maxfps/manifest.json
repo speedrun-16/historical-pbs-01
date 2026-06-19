@@ -1,0 +1,87 @@
+{
+  "map": "speedrun_chemical_maxfps",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "BUEEE4DRV",
+      "rid": 4719,
+      "hash": "8a76557f3d0f7dc922d976e8c135cd58a0a18b83c3df149e7ad90fc09c54103f",
+      "t": 10452,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-09-22T10:24:32Z",
+      "zip": "00010452_STEAM_0_1_29970948_20250922-102432.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical_maxfps-20250922-#BUEEE4DRV.analysis.json",
+          "off": 88,
+          "size": 13077
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_chemical_maxfps-20250922-#BUEEE4DRV.dem",
+          "off": 13243,
+          "size": 108674
+        }
+      ]
+    },
+    {
+      "uid": "7I1CAVNV6",
+      "rid": 9893,
+      "hash": "3b260e549991ffa3d5a17b6915826032455680e65cd0860f7beba65698623299",
+      "t": 10503,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-10-17T08:56:13Z",
+      "zip": "00010503_STEAM_0_1_84733295_20251017-085613.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical_maxfps-20251017-#7I1CAVNV6.analysis.json",
+          "off": 88,
+          "size": 151850
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_chemical_maxfps-20251017-#7I1CAVNV6.dem",
+          "off": 152016,
+          "size": 114498
+        },
+        {
+          "type": "replay",
+          "name": "9893.replay.xz",
+          "off": 266558,
+          "size": 20208
+        }
+      ]
+    },
+    {
+      "uid": "VX8GPMOJ3",
+      "rid": 5886,
+      "hash": "ff9690f4db3bc27c7a10c7e513791c7e7c46e26dcf17f477f20bee8d76f97639",
+      "t": 10734,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-09-27T08:39:56Z",
+      "zip": "00010734_STEAM_0_1_84733295_20250927-083956.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical_maxfps-20250927-#VX8GPMOJ3.analysis.json",
+          "off": 88,
+          "size": 159619
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_chemical_maxfps-20250927-#VX8GPMOJ3.dem",
+          "off": 159785,
+          "size": 116782
+        },
+        {
+          "type": "replay",
+          "name": "5886.replay.xz",
+          "off": 276611,
+          "size": 20416
+        }
+      ]
+    }
+  ]
+}

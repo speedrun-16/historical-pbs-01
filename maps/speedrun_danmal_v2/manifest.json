@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_danmal_v2",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "LHC0NQAH1",
+      "rid": 1181,
+      "hash": "c5ac1825579045fc24a16c58b30c5940c86705aa8b973b82f483d017bf92159d",
+      "t": 18833,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-09-15T23:25:31Z",
+      "zip": "00018833_STEAM_0_1_408712_20250915-232531.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_danmal_v2-20250915-#LHC0NQAH1.analysis.json",
+          "off": 82,
+          "size": 218922
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_danmal_v2-20250915-#LHC0NQAH1.dem",
+          "off": 219076,
+          "size": 174492
+        },
+        {
+          "type": "replay",
+          "name": "1181.replay.xz",
+          "off": 393612,
+          "size": 36400
+        }
+      ]
+    }
+  ]
+}

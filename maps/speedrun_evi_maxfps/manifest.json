@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_evi_maxfps",
+  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "runs": [
+    {
+      "uid": "4XW76OG3U",
+      "rid": 4669,
+      "hash": "13e57be0b05b3f8e827bf052bd9ce2da6cd4fe0ed439802e37cf7553f4596114",
+      "t": 12728,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-09-21T20:48:13Z",
+      "zip": "00012728_STEAM_0_1_408712_20250921-204813.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_evi_maxfps-20250921-#4XW76OG3U.analysis.json",
+          "off": 83,
+          "size": 176726
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_evi_maxfps-20250921-#4XW76OG3U.dem",
+          "off": 176882,
+          "size": 129565
+        },
+        {
+          "type": "replay",
+          "name": "4669.replay.xz",
+          "off": 306491,
+          "size": 24080
+        }
+      ]
+    }
+  ]
+}
