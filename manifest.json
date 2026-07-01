@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-06-19T08:18:01.660Z",
+  "updatedAt": "2026-07-01T18:00:00.550Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -194,6 +194,12 @@
       "best": 10511,
       "at": "2025-12-29T13:48:34Z",
       "manifest": "maps/speedrun_jeans_short/manifest.json"
+    },
+    "speedrun_legacy": {
+      "n": 1,
+      "best": 37055,
+      "at": "2026-07-01T11:58:49.000Z",
+      "manifest": "maps/speedrun_legacy/manifest.json"
     },
     "cs_militia": {
       "n": 3,
@@ -418,9 +424,9 @@
       "manifest": "maps/deathrun_govno/manifest.json"
     },
     "speedrun_jeans": {
-      "n": 4,
-      "best": 14927,
-      "at": "2025-09-24T11:50:49Z",
+      "n": 5,
+      "best": 14785,
+      "at": "2026-04-21T10:38:43Z",
       "manifest": "maps/speedrun_jeans/manifest.json"
     },
     "speedrun_pupsik3": {

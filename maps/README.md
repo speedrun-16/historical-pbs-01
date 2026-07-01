@@ -6,9 +6,9 @@ Map-level archive directory for historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 130 |
-| Archived PBs | 696 |
-| Latest Update | 2026-06-05 |
+| Maps | 131 |
+| Archived PBs | 698 |
+| Latest Update | 2026-07-01 |
 
 ## Structure
 

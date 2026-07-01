@@ -1,4 +1,4 @@
-# speedrun_jeans
+# speedrun_legacy
 
 Personal best demo archive for this map in historical personal best records.
 
@@ -6,8 +6,8 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 5 |
-| Latest Update | 2026-04-21 |
+| Archived PBs | 1 |
+| Latest Update | 2026-07-01 |
 
 ## Structure
 
