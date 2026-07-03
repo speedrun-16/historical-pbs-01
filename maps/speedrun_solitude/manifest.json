@@ -1,7 +1,36 @@
 {
   "map": "speedrun_solitude",
-  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "updatedAt": "2026-07-03T12:00:00.309Z",
   "runs": [
+    {
+      "uid": "JEGD988PF",
+      "rid": 633,
+      "hash": "d6c5515526b54ab9f9d34944180a66c4f388b89ba25906a5eb17873c2022fafb",
+      "t": 25999,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-15T07:43:37Z",
+      "zip": "00025999_STEAM_0_1_771348382_20250915-074337.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_solitude-20250915-#JEGD988PF.analysis.json",
+          "off": 81,
+          "size": 268326
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_solitude-20250915-#JEGD988PF.dem",
+          "off": 268478,
+          "size": 220083
+        },
+        {
+          "type": "replay",
+          "name": "633.replay.xz",
+          "off": 488604,
+          "size": 48304
+        }
+      ]
+    },
     {
       "uid": "P3J5YBNRG",
       "rid": 11773,
