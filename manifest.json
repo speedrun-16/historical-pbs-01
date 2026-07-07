@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-07-06T18:00:00.622Z",
+  "updatedAt": "2026-07-07T00:00:00.390Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -292,9 +292,9 @@
       "manifest": "maps/speedrun_neocist/manifest.json"
     },
     "speedrun_celerior_beta1": {
-      "n": 2,
-      "best": 19593,
-      "at": "2026-07-06T00:08:09.000Z",
+      "n": 3,
+      "best": 19358,
+      "at": "2026-07-06T17:40:25.000Z",
       "manifest": "maps/speedrun_celerior_beta1/manifest.json"
     },
     "speedrun_leszcz": {
