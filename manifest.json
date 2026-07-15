@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-07-15T12:00:00.938Z",
+  "updatedAt": "2026-07-15T18:00:00.459Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -118,9 +118,9 @@
       "manifest": "maps/speedrun_bieber_maxfps/manifest.json"
     },
     "speedrun_w00dfun": {
-      "n": 48,
+      "n": 49,
       "best": 3407,
-      "at": "2026-05-05T21:38:12Z",
+      "at": "2026-07-15T11:59:43.000Z",
       "manifest": "maps/speedrun_w00dfun/manifest.json"
     },
     "speedrun_outside_estonia": {
@@ -466,9 +466,9 @@
       "manifest": "maps/speedrun_SuNsHiNe_new/manifest.json"
     },
     "speedrun_al": {
-      "n": 7,
+      "n": 8,
       "best": 16251,
-      "at": "2025-11-30T12:54:16Z",
+      "at": "2026-07-15T08:00:08.000Z",
       "manifest": "maps/speedrun_al/manifest.json"
     },
     "speedrun_vantara": {
