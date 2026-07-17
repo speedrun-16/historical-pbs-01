@@ -1,4 +1,4 @@
-# speedrun_pool_simple
+# speedrun_nazwa-robocza
 
 Personal best demo archive for this map in historical personal best records.
 
@@ -6,8 +6,8 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 19 |
-| Latest Update | 2026-05-23 |
+| Archived PBs | 1 |
+| Latest Update | 2026-07-15 |
 
 ## Structure
 
