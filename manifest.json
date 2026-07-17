@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-07-17T12:00:00.558Z",
+  "updatedAt": "2026-07-17T18:00:00.681Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -760,9 +760,9 @@
       "manifest": "maps/de_train/manifest.json"
     },
     "speedrun_euphoria": {
-      "n": 7,
-      "best": 15079,
-      "at": "2026-05-18T18:50:22Z",
+      "n": 8,
+      "best": 15052,
+      "at": "2026-07-17T11:58:51.000Z",
       "manifest": "maps/speedrun_euphoria/manifest.json"
     },
     "deathrun_grass": {
