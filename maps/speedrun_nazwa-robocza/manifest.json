@@ -1,7 +1,36 @@
 {
   "map": "speedrun_nazwa-robocza",
-  "updatedAt": "2026-07-17T00:00:00.627Z",
+  "updatedAt": "2026-07-19T18:00:00.934Z",
   "runs": [
+    {
+      "uid": "0MBQ4A6SV",
+      "rid": 71008,
+      "hash": "cbfcb98ff0634c259283cd7340c634fdf3c59b07e63abf4a11a3ff8a177ff8ee",
+      "t": 12135,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-16T18:24:18.000Z",
+      "zip": "00012135_STEAM_0_0_631815948_20260716-182418.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_nazwa-robocza-20260716-#0MBQ4A6SV.dem",
+          "off": 76,
+          "size": 117777
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_nazwa-robocza-20260716-#0MBQ4A6SV.analysis.json",
+          "off": 117939,
+          "size": 141248
+        },
+        {
+          "type": "replay",
+          "name": "71008.replay.xz",
+          "off": 259232,
+          "size": 23296
+        }
+      ]
+    },
     {
       "uid": "3I9UFHL02",
       "rid": 70397,
