@@ -1,6 +1,6 @@
 {
   "map": "speedrun_grasz_final",
-  "updatedAt": "2026-07-19T18:00:00.765Z",
+  "updatedAt": "2026-07-20T00:00:00.387Z",
   "runs": [
     {
       "uid": "PDW3G2D83",
@@ -173,6 +173,35 @@
           "name": "39951.replay.xz",
           "off": 373850,
           "size": 35032
+        }
+      ]
+    },
+    {
+      "uid": "A1V9J21BI",
+      "rid": 72481,
+      "hash": "ce8a94a1e5c15d84027004ff6c476af9996a810f4b55e2c53d201c9876d804f1",
+      "t": 15359,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-19T17:59:22.000Z",
+      "zip": "00015359_STEAM_0_1_771348382_20260719-175922.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_grasz_final-20260719-#A1V9J21BI.dem",
+          "off": 74,
+          "size": 162099
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_grasz_final-20260719-#A1V9J21BI.analysis.json",
+          "off": 162257,
+          "size": 165016
+        },
+        {
+          "type": "replay",
+          "name": "72481.replay.xz",
+          "off": 327318,
+          "size": 29172
         }
       ]
     },
