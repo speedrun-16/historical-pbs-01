@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-07-20T12:00:00.442Z",
+  "updatedAt": "2026-07-21T00:00:00.452Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -322,9 +322,9 @@
       "manifest": "maps/speedrun_getdown/manifest.json"
     },
     "speedrun_1000fps_battle": {
-      "n": 78,
+      "n": 80,
       "best": 2336,
-      "at": "2026-06-01T16:27:31Z",
+      "at": "2026-07-11T08:29:50.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "speedrun_eastwood": {
