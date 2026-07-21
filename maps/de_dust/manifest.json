@@ -1,6 +1,6 @@
 {
   "map": "de_dust",
-  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "updatedAt": "2026-07-21T18:00:00.435Z",
   "runs": [
     {
       "uid": "POZR8T7C8",
@@ -115,6 +115,35 @@
           "name": "6715.replay.xz",
           "off": 242198,
           "size": 18764
+        }
+      ]
+    },
+    {
+      "uid": "BJPICAWKM",
+      "rid": 72757,
+      "hash": "7b275030f1e76cb4b1c6a251ad69e24b560998a731a84d010f15410980e21919",
+      "t": 9267,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-20T18:04:04.000Z",
+      "zip": "00009267_STEAM_0_0_631815948_20260720-180404.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "de_dust-20260720-#BJPICAWKM.dem",
+          "off": 61,
+          "size": 104345
+        },
+        {
+          "type": "analysis",
+          "name": "de_dust-20260720-#BJPICAWKM.analysis.json",
+          "off": 104477,
+          "size": 121878
+        },
+        {
+          "type": "replay",
+          "name": "72757.replay.xz",
+          "off": 226400,
+          "size": 18796
         }
       ]
     },
