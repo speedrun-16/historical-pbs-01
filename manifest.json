@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-07-21T18:00:00.591Z",
+  "updatedAt": "2026-07-22T18:00:00.406Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -112,9 +112,9 @@
       "manifest": "maps/deathrun_forest/manifest.json"
     },
     "speedrun_svet": {
-      "n": 5,
-      "best": 17258,
-      "at": "2026-03-08T22:11:45Z",
+      "n": 6,
+      "best": 17149,
+      "at": "2026-04-12T16:51:50Z",
       "manifest": "maps/speedrun_svet/manifest.json"
     },
     "speedrun_bieber_maxfps": {
