@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_celer",
+  "updatedAt": "2026-07-23T00:00:00.705Z",
+  "runs": [
+    {
+      "uid": "XZIETK4FF",
+      "rid": 68077,
+      "hash": "293291eca037343508b4aabe8b23b37a7c76a3984674b8aea69f99edd3437697",
+      "t": 10606,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-05T22:47:53.000Z",
+      "zip": "00010606_STEAM_0_1_771348382_20260705-224753.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_celer-20260705-#XZIETK4FF.dem",
+          "off": 68,
+          "size": 121831
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_celer-20260705-#XZIETK4FF.analysis.json",
+          "off": 121977,
+          "size": 147186
+        },
+        {
+          "type": "replay",
+          "name": "68077.replay.xz",
+          "off": 269208,
+          "size": 21000
+        }
+      ]
+    },
+    {
+      "uid": "U4REA2L6I",
+      "rid": 73963,
+      "hash": "34361279cdd94ab2cbebf303f655a9f4b8d57805c2af9abecbdef57ffaa79bbb",
+      "t": 10820,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-07-22T17:49:55.000Z",
+      "zip": "00010820_STEAM_0_1_408712_20260722-174955.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_celer-20260722-#U4REA2L6I.dem",
+          "off": 68,
+          "size": 122917
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_celer-20260722-#U4REA2L6I.analysis.json",
+          "off": 123063,
+          "size": 156788
+        },
+        {
+          "type": "replay",
+          "name": "73963.replay.xz",
+          "off": 279896,
+          "size": 21620
+        }
+      ]
+    },
+    {
+      "uid": "NEICQA7R4",
+      "rid": 73960,
+      "hash": "8f904a2ebdd9885c55fd8e25a8e98b4faef29e6000ac3e56d4ba9ba181dff5c4",
+      "t": 12135,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-07-22T17:44:46.000Z",
+      "zip": "00012135_STEAM_0_1_408712_20260722-174446.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_celer-20260722-#NEICQA7R4.dem",
+          "off": 68,
+          "size": 120363
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_celer-20260722-#NEICQA7R4.analysis.json",
+          "off": 120509,
+          "size": 96048
+        },
+        {
+          "type": "replay",
+          "name": "73960.replay.xz",
+          "off": 216602,
+          "size": 15032
+        }
+      ]
+    }
+  ]
+}
