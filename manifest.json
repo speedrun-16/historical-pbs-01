@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-07-24T18:00:00.503Z",
+  "updatedAt": "2026-07-25T00:00:01.376Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -356,6 +356,12 @@
       "best": 20197,
       "at": "2025-12-21T18:01:19Z",
       "manifest": "maps/speedrun_miqu/manifest.json"
+    },
+    "speedrun_sickmilki": {
+      "n": 1,
+      "best": 20941,
+      "at": "2026-07-24T17:43:24.000Z",
+      "manifest": "maps/speedrun_sickmilki/manifest.json"
     },
     "speedrun_tr": {
       "n": 8,
