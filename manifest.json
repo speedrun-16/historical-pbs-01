@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-07-25T12:00:01.257Z",
+  "updatedAt": "2026-07-25T18:00:00.837Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -94,9 +94,9 @@
       "manifest": "maps/speedrun_sudpi/manifest.json"
     },
     "speedrun_retz": {
-      "n": 3,
-      "best": 14496,
-      "at": "2025-10-30T15:59:18Z",
+      "n": 4,
+      "best": 14489,
+      "at": "2026-07-25T11:58:22.000Z",
       "manifest": "maps/speedrun_retz/manifest.json"
     },
     "speedrun_reloaded": {
@@ -201,6 +201,12 @@
       "at": "2025-12-29T13:48:34Z",
       "manifest": "maps/speedrun_jeans_short/manifest.json"
     },
+    "speedrun_hatemeworld_b1": {
+      "n": 1,
+      "best": 27553,
+      "at": "2025-09-17T22:39:26Z",
+      "manifest": "maps/speedrun_hatemeworld_b1/manifest.json"
+    },
     "speedrun_legacy": {
       "n": 2,
       "best": 36209,
@@ -256,9 +262,9 @@
       "manifest": "maps/speedrun_grasz_final/manifest.json"
     },
     "speedrun_fur_beta1": {
-      "n": 1,
-      "best": 619102,
-      "at": "2026-07-24T21:52:33.000Z",
+      "n": 2,
+      "best": 373243,
+      "at": "2026-07-25T10:12:29.000Z",
       "manifest": "maps/speedrun_fur_beta1/manifest.json"
     },
     "speedrun_nazwa-robocza": {
