@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_fur_beta1",
+  "updatedAt": "2026-07-25T12:00:00.498Z",
+  "runs": [
+    {
+      "uid": "PFLVFBGS1",
+      "rid": 74938,
+      "hash": "f15fe59e754c3fc0bbad88003bbde0f0dd8579788f8d3e61dd44484e219d56cd",
+      "t": 619102,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-24T21:52:33.000Z",
+      "zip": "00619102_STEAM_0_0_631815948_20260724-215233.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_fur_beta1-20260724-#PFLVFBGS1.dem",
+          "off": 72,
+          "size": 4752344
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_fur_beta1-20260724-#PFLVFBGS1.analysis.json",
+          "off": 4752498,
+          "size": 6462452
+        },
+        {
+          "type": "replay",
+          "name": "74938.replay.xz",
+          "off": 11214995,
+          "size": 941616
+        }
+      ]
+    }
+  ]
+}
