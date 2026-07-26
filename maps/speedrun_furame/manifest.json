@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_furame",
+  "updatedAt": "2026-07-26T12:00:00.487Z",
+  "runs": [
+    {
+      "uid": "VKALQRHWB",
+      "rid": 75206,
+      "hash": "5e614413484caa0c19b755967d517a5d100871e782fc689957d37b6b524e68ed",
+      "t": 20852,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-07-25T19:45:48.000Z",
+      "zip": "00020852_STEAM_0_0_24751394_20260725-194548.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_furame-20260725-#VKALQRHWB.dem",
+          "off": 69,
+          "size": 232613
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_furame-20260725-#VKALQRHWB.analysis.json",
+          "off": 232761,
+          "size": 226340
+        },
+        {
+          "type": "replay",
+          "name": "75206.replay.xz",
+          "off": 459146,
+          "size": 37684
+        }
+      ]
+    }
+  ]
+}
