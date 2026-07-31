@@ -1,4 +1,4 @@
-# speedrun_tiainen_beta1
+# speedrun_eternity_beta2
 
 Personal best demo archive for this map in historical personal best records.
 
@@ -6,7 +6,7 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 4 |
+| Archived PBs | 1 |
 | Latest Update | 2026-07-30 |
 
 ## Structure

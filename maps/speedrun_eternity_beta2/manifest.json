@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_eternity_beta2",
+  "updatedAt": "2026-07-31T06:00:00.439Z",
+  "runs": [
+    {
+      "uid": "R8BKNUCQ0",
+      "rid": 76638,
+      "hash": "a4f0d3ad6fb348e36382f78f447917427b36761ca96f92d716ac7049d0891044",
+      "t": 27588,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-07-30T22:14:40.000Z",
+      "zip": "00027588_STEAM_0_1_155808091_20260730-221440.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_eternity_beta2-20260730-#R8BKNUCQ0.dem",
+          "off": 77,
+          "size": 238820
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_eternity_beta2-20260730-#R8BKNUCQ0.analysis.json",
+          "off": 238984,
+          "size": 295757
+        },
+        {
+          "type": "replay",
+          "name": "76638.replay.xz",
+          "off": 534786,
+          "size": 51900
+        }
+      ]
+    }
+  ]
+}
