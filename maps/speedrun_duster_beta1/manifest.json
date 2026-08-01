@@ -1,6 +1,6 @@
 {
   "map": "speedrun_duster_beta1",
-  "updatedAt": "2026-07-29T00:00:00.637Z",
+  "updatedAt": "2026-08-01T00:00:00.626Z",
   "runs": [
     {
       "uid": "0WT2N8SOG",
@@ -28,6 +28,35 @@
           "name": "75846.replay.xz",
           "off": 492053,
           "size": 40640
+        }
+      ]
+    },
+    {
+      "uid": "WPKLSCBT7",
+      "rid": 76180,
+      "hash": "b0f1f05a1c6cef533bb0d1f6cf23499876b8f635edee50639f723e884b5c12a4",
+      "t": 22599,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-07-28T20:13:28.000Z",
+      "zip": "00022599_STEAM_0_1_780576434_20260728-201328.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_duster_beta1-20260728-#WPKLSCBT7.dem",
+          "off": 75,
+          "size": 218934
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_duster_beta1-20260728-#WPKLSCBT7.analysis.json",
+          "off": 219094,
+          "size": 216674
+        },
+        {
+          "type": "replay",
+          "name": "76180.replay.xz",
+          "off": 435813,
+          "size": 39612
         }
       ]
     },
