@@ -1,4 +1,4 @@
-# speedrun_nazwa-robocza
+# speedrun_revived_odd_max
 
 Personal best demo archive for this map in historical personal best records.
 
@@ -6,8 +6,8 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 4 |
-| Latest Update | 2026-07-20 |
+| Archived PBs | 1 |
+| Latest Update | 2026-05-01 |
 
 ## Structure
 

@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-01T18:00:00.458Z",
+  "updatedAt": "2026-08-02T00:00:00.841Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -171,6 +171,12 @@
       "at": "2025-09-16T19:35:25Z",
       "manifest": "maps/speedrun_prezmik/manifest.json"
     },
+    "speedrun_revived_odd_max": {
+      "n": 1,
+      "best": 15784,
+      "at": "2026-05-01T19:38:39Z",
+      "manifest": "maps/speedrun_revived_odd_max/manifest.json"
+    },
     "speedrun_calm": {
       "n": 1,
       "best": 12672,
@@ -280,8 +286,8 @@
       "manifest": "maps/speedrun_fur_beta1/manifest.json"
     },
     "speedrun_nazwa-robocza": {
-      "n": 3,
-      "best": 12135,
+      "n": 4,
+      "best": 12018,
       "at": "2026-07-20T17:44:45.000Z",
       "manifest": "maps/speedrun_nazwa-robocza/manifest.json"
     },
@@ -418,9 +424,9 @@
       "manifest": "maps/speedrun_evi_maxfps/manifest.json"
     },
     "speedrun_runners": {
-      "n": 34,
+      "n": 35,
       "best": 5376,
-      "at": "2026-05-04T03:50:31Z",
+      "at": "2026-05-07T17:42:04Z",
       "manifest": "maps/speedrun_runners/manifest.json"
     },
     "speedrun_evidens_big": {
@@ -436,9 +442,9 @@
       "manifest": "maps/speedrun_toni/manifest.json"
     },
     "speedrun_phe3": {
-      "n": 3,
+      "n": 4,
       "best": 9520,
-      "at": "2026-04-28T13:47:01Z",
+      "at": "2026-05-11T15:31:10Z",
       "manifest": "maps/speedrun_phe3/manifest.json"
     },
     "speedrun_superspeedrun": {
