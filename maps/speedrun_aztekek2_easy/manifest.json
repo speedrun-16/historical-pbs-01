@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_aztekek2_easy",
+  "updatedAt": "2026-08-02T18:00:00.570Z",
+  "runs": [
+    {
+      "uid": "GM90B0OBA",
+      "rid": 53196,
+      "hash": "3b078b9b90c645ca7a75e4ac9009d26341dde807df464ee82d29c0c9540dc961",
+      "t": 16789,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-05-15T14:30:03Z",
+      "zip": "00016789_STEAM_0_0_24751394_20260515-143003.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_aztekek2_easy-20260515-#GM90B0OBA.analysis.json",
+          "off": 86,
+          "size": 206578
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_aztekek2_easy-20260515-#GM90B0OBA.dem",
+          "off": 206740,
+          "size": 160852
+        },
+        {
+          "type": "replay",
+          "name": "53196.replay.xz",
+          "off": 367637,
+          "size": 30752
+        }
+      ]
+    }
+  ]
+}

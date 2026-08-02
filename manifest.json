@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-02T00:00:00.841Z",
+  "updatedAt": "2026-08-02T18:00:00.734Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -34,9 +34,9 @@
       "manifest": "maps/speedrun_eternity_beta2/manifest.json"
     },
     "speedrun_dsa": {
-      "n": 1,
-      "best": 8553,
-      "at": "2026-04-30T21:43:19Z",
+      "n": 2,
+      "best": 8538,
+      "at": "2026-04-30T21:45:10Z",
       "manifest": "maps/speedrun_dsa/manifest.json"
     },
     "speedrun_perspective_beta3": {
@@ -99,10 +99,16 @@
       "at": "2026-02-03T14:14:01Z",
       "manifest": "maps/speedrun_sudpi/manifest.json"
     },
+    "speedrun_aztekek2_easy": {
+      "n": 1,
+      "best": 16789,
+      "at": "2026-05-15T14:30:03Z",
+      "manifest": "maps/speedrun_aztekek2_easy/manifest.json"
+    },
     "speedrun_duster_beta1": {
-      "n": 6,
+      "n": 7,
       "best": 22380,
-      "at": "2026-07-28T20:13:28.000Z",
+      "at": "2026-07-31T19:16:04.000Z",
       "manifest": "maps/speedrun_duster_beta1/manifest.json"
     },
     "speedrun_retz": {
@@ -148,9 +154,9 @@
       "manifest": "maps/speedrun_outside_estonia/manifest.json"
     },
     "speedrun_artakey_no_ramp": {
-      "n": 3,
+      "n": 4,
       "best": 13228,
-      "at": "2025-10-11T14:11:43Z",
+      "at": "2026-06-03T11:34:12Z",
       "manifest": "maps/speedrun_artakey_no_ramp/manifest.json"
     },
     "deathrun_chemical": {
@@ -304,8 +310,8 @@
       "manifest": "maps/deathrun_dust2010/manifest.json"
     },
     "speedrun_opcode_mini": {
-      "n": 2,
-      "best": 6699,
+      "n": 3,
+      "best": 6647,
       "at": "2026-03-14T08:55:38Z",
       "manifest": "maps/speedrun_opcode_mini/manifest.json"
     },
@@ -694,9 +700,9 @@
       "manifest": "maps/de_dust/manifest.json"
     },
     "speedrun_pryda_v1": {
-      "n": 2,
-      "best": 9963,
-      "at": "2026-01-09T19:36:26Z",
+      "n": 3,
+      "best": 9804,
+      "at": "2026-01-11T01:05:47Z",
       "manifest": "maps/speedrun_pryda_v1/manifest.json"
     },
     "speedrun_reloaded_edition": {
