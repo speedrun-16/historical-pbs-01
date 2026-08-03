@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-03T06:00:00.801Z",
+  "updatedAt": "2026-08-03T18:00:00.957Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -314,6 +314,12 @@
       "best": 6647,
       "at": "2026-03-14T08:55:38Z",
       "manifest": "maps/speedrun_opcode_mini/manifest.json"
+    },
+    "speedrun_alt_terassi": {
+      "n": 1,
+      "best": 21383,
+      "at": "2026-08-03T11:46:43.000Z",
+      "manifest": "maps/speedrun_alt_terassi/manifest.json"
     },
     "speedrun_outside_estonia3": {
       "n": 1,
