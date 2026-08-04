@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_kwadrat",
+  "updatedAt": "2026-08-04T06:00:00.396Z",
+  "runs": [
+    {
+      "uid": "ZPUMHNEPR",
+      "rid": 2215,
+      "hash": "ab14bac7b0f2ecfe39022176ed33ab531f04694d6154b7b45194f891b087eaa4",
+      "t": 13332,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-17T13:25:36Z",
+      "zip": "00013332_STEAM_0_1_771348382_20250917-132536.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_kwadrat-20250917-#ZPUMHNEPR.analysis.json",
+          "off": 80,
+          "size": 151425
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_kwadrat-20250917-#ZPUMHNEPR.dem",
+          "off": 151575,
+          "size": 119653
+        },
+        {
+          "type": "replay",
+          "name": "2215.replay.xz",
+          "off": 271272,
+          "size": 24700
+        }
+      ]
+    }
+  ]
+}

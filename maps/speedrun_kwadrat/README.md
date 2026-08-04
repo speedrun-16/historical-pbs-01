@@ -1,4 +1,4 @@
-# speedrun_duster_beta1
+# speedrun_kwadrat
 
 Personal best demo archive for this map in historical personal best records.
 
@@ -6,8 +6,8 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 9 |
-| Latest Update | 2026-08-03 |
+| Archived PBs | 1 |
+| Latest Update | 2025-09-17 |
 
 ## Structure
 
