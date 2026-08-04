@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_maze_seed2_test",
+  "updatedAt": "2026-08-04T18:00:00.766Z",
+  "runs": [
+    {
+      "uid": "26L3QVOXU",
+      "rid": 25804,
+      "hash": "afc9c9098ea3796945fd076b30075b484ec965ee47f0ac3143da3c42c3ab90f1",
+      "t": 19930,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-01-08T01:23:04Z",
+      "zip": "00019930_STEAM_0_0_24751394_20260108-012304.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_maze_seed2_test-20260108-#26L3QVOXU.analysis.json",
+          "off": 88,
+          "size": 219845
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_maze_seed2_test-20260108-#26L3QVOXU.dem",
+          "off": 220011,
+          "size": 173534
+        },
+        {
+          "type": "replay",
+          "name": "25804.replay.xz",
+          "off": 393590,
+          "size": 35624
+        }
+      ]
+    }
+  ]
+}
