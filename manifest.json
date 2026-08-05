@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-04T18:00:00.932Z",
+  "updatedAt": "2026-08-05T00:00:00.667Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -112,9 +112,9 @@
       "manifest": "maps/speedrun_aztekek2_easy/manifest.json"
     },
     "speedrun_duster_beta1": {
-      "n": 9,
+      "n": 10,
       "best": 22380,
-      "at": "2026-08-03T22:18:46.000Z",
+      "at": "2026-08-04T01:43:03.000Z",
       "manifest": "maps/speedrun_duster_beta1/manifest.json"
     },
     "speedrun_retz": {
@@ -634,9 +634,9 @@
       "manifest": "maps/speedrun_joker2/manifest.json"
     },
     "speedrun_pryda_v2": {
-      "n": 14,
+      "n": 15,
       "best": 8782,
-      "at": "2026-01-31T19:36:04Z",
+      "at": "2026-04-28T07:02:58Z",
       "manifest": "maps/speedrun_pryda_v2/manifest.json"
     },
     "speedrun_sunnies_short": {
@@ -692,6 +692,12 @@
       "best": 10237,
       "at": "2026-04-28T05:58:58Z",
       "manifest": "maps/speedrun_opcode_medium_beta3/manifest.json"
+    },
+    "speedrun_spg_b1": {
+      "n": 1,
+      "best": 28850,
+      "at": "2026-07-05T17:17:15.000Z",
+      "manifest": "maps/speedrun_spg_b1/manifest.json"
     },
     "speedrun_chemicalz": {
       "n": 6,
