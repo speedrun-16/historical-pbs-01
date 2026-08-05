@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-05T06:00:00.594Z",
+  "updatedAt": "2026-08-05T18:00:00.587Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -250,9 +250,9 @@
       "manifest": "maps/cs_militia/manifest.json"
     },
     "speedrun_celer": {
-      "n": 3,
+      "n": 4,
       "best": 10606,
-      "at": "2026-07-22T17:49:55.000Z",
+      "at": "2026-08-03T01:27:31.000Z",
       "manifest": "maps/speedrun_celer/manifest.json"
     },
     "deathrun_arctic": {
@@ -520,9 +520,9 @@
       "manifest": "maps/speedrun_pupsik3/manifest.json"
     },
     "speedrun_lumina_beta3": {
-      "n": 3,
-      "best": 40876,
-      "at": "2026-04-26T17:30:30Z",
+      "n": 4,
+      "best": 40644,
+      "at": "2026-05-03T16:02:59Z",
       "manifest": "maps/speedrun_lumina_beta3/manifest.json"
     },
     "speedrun_retro_pro": {
@@ -586,9 +586,9 @@
       "manifest": "maps/speedrun_sqn/manifest.json"
     },
     "speedrun_small_white": {
-      "n": 1,
-      "best": 12381,
-      "at": "2026-07-27T20:11:28.000Z",
+      "n": 2,
+      "best": 12281,
+      "at": "2026-08-05T04:50:38.000Z",
       "manifest": "maps/speedrun_small_white/manifest.json"
     },
     "deathrun_forest2_final": {

@@ -1,7 +1,36 @@
 {
   "map": "speedrun_lumina_beta3",
-  "updatedAt": "2026-06-19T06:30:35.706388Z",
+  "updatedAt": "2026-08-05T18:00:00.434Z",
   "runs": [
+    {
+      "uid": "EN9UEATD3",
+      "rid": 47936,
+      "hash": "2f2e3e9469c1c95ad1a27940a4e6338fd63d0d8b91690cab5792e1e71daaabf6",
+      "t": 40644,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-05-03T16:02:59Z",
+      "zip": "00040644_STEAM_0_1_155808091_20260503-160259.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_lumina_beta3-20260503-#EN9UEATD3.analysis.json",
+          "off": 85,
+          "size": 275188
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_lumina_beta3-20260503-#EN9UEATD3.dem",
+          "off": 275348,
+          "size": 310207
+        },
+        {
+          "type": "replay",
+          "name": "47936.replay.xz",
+          "off": 585600,
+          "size": 47660
+        }
+      ]
+    },
     {
       "uid": "YJ53E3EFK",
       "rid": 45294,
