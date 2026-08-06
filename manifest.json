@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-06T06:00:01.023Z",
+  "updatedAt": "2026-08-06T18:00:00.663Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -352,9 +352,9 @@
       "manifest": "maps/speedrun_woah2/manifest.json"
     },
     "speedrun_neocist": {
-      "n": 20,
+      "n": 23,
       "best": 13833,
-      "at": "2026-08-03T15:15:06.000Z",
+      "at": "2026-08-06T04:04:46.000Z",
       "manifest": "maps/speedrun_neocist/manifest.json"
     },
     "speedrun_celerior_beta1": {
@@ -856,9 +856,9 @@
       "manifest": "maps/speedrun_several_trilogy/manifest.json"
     },
     "speedrun_alt_jestas_beta1": {
-      "n": 1,
-      "best": 21088,
-      "at": "2026-08-04T04:00:29.000Z",
+      "n": 2,
+      "best": 17848,
+      "at": "2026-08-04T15:55:09.000Z",
       "manifest": "maps/speedrun_alt_jestas_beta1/manifest.json"
     },
     "speedrun_poland_copy": {
@@ -880,9 +880,9 @@
       "manifest": "maps/speedrun_euphoria/manifest.json"
     },
     "deathrun_grass": {
-      "n": 2,
-      "best": 14950,
-      "at": "2025-11-04T20:39:27Z",
+      "n": 3,
+      "best": 14681,
+      "at": "2025-11-05T00:14:20Z",
       "manifest": "maps/deathrun_grass/manifest.json"
     },
     "speedrun_poland": {
