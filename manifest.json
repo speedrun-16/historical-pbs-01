@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-07T12:00:00.508Z",
+  "updatedAt": "2026-08-08T12:00:00.633Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -616,9 +616,9 @@
       "manifest": "maps/speedrun_muhaha/manifest.json"
     },
     "speedrun_yagrehsart_fix": {
-      "n": 7,
-      "best": 13700,
-      "at": "2025-10-20T12:46:43Z",
+      "n": 8,
+      "best": 13574,
+      "at": "2026-04-09T10:22:02Z",
       "manifest": "maps/speedrun_yagrehsart_fix/manifest.json"
     },
     "deathrun_easy_v1": {
@@ -814,8 +814,8 @@
       "manifest": "maps/speedrun_chemical_maxfps/manifest.json"
     },
     "speedrun_medium": {
-      "n": 2,
-      "best": 12598,
+      "n": 3,
+      "best": 12337,
       "at": "2026-05-10T11:55:05Z",
       "manifest": "maps/speedrun_medium/manifest.json"
     },
@@ -832,9 +832,9 @@
       "manifest": "maps/speedrun_crate/manifest.json"
     },
     "speedrun_chemical": {
-      "n": 23,
+      "n": 24,
       "best": 7651,
-      "at": "2026-04-16T17:43:46Z",
+      "at": "2026-08-08T05:46:15.000Z",
       "manifest": "maps/speedrun_chemical/manifest.json"
     },
     "speedrun_bieber": {
