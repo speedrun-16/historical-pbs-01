@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_sunnies",
+  "updatedAt": "2026-08-09T18:00:00.581Z",
+  "runs": [
+    {
+      "uid": "8L99GEROT",
+      "rid": 14026,
+      "hash": "c1a1b45e6d62cb294136a1171b271049809147166c6443180fcdf520d2584ee0",
+      "t": 17344,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-11-08T14:17:52Z",
+      "zip": "00017344_STEAM_0_0_24751394_20251108-141752.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_sunnies-20251108-#8L99GEROT.analysis.json",
+          "off": 80,
+          "size": 212308
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_sunnies-20251108-#8L99GEROT.dem",
+          "off": 212458,
+          "size": 158002
+        },
+        {
+          "type": "replay",
+          "name": "14026.replay.xz",
+          "off": 370505,
+          "size": 34976
+        }
+      ]
+    }
+  ]
+}

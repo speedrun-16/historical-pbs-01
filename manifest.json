@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-09T12:00:00.548Z",
+  "updatedAt": "2026-08-09T18:00:00.773Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -226,9 +226,9 @@
       "manifest": "maps/speedrun_obzactz/manifest.json"
     },
     "speedrun_jeans_short": {
-      "n": 19,
+      "n": 20,
       "best": 10511,
-      "at": "2026-07-21T21:37:23.000Z",
+      "at": "2026-07-30T08:10:42.000Z",
       "manifest": "maps/speedrun_jeans_short/manifest.json"
     },
     "speedrun_hatemeworld_b1": {
@@ -400,9 +400,9 @@
       "manifest": "maps/speedrun_amel/manifest.json"
     },
     "speedrun_miqu": {
-      "n": 6,
-      "best": 20197,
-      "at": "2025-12-21T18:01:19Z",
+      "n": 7,
+      "best": 20157,
+      "at": "2025-12-25T15:36:46Z",
       "manifest": "maps/speedrun_miqu/manifest.json"
     },
     "speedrun_sickmilki": {
@@ -440,6 +440,12 @@
       "best": 12728,
       "at": "2025-09-21T20:48:13Z",
       "manifest": "maps/speedrun_evi_maxfps/manifest.json"
+    },
+    "speedrun_sunnies": {
+      "n": 1,
+      "best": 17344,
+      "at": "2025-11-08T14:17:52Z",
+      "manifest": "maps/speedrun_sunnies/manifest.json"
     },
     "speedrun_runners": {
       "n": 35,

@@ -1,4 +1,4 @@
-# speedrun_miqu
+# speedrun_sunnies
 
 Personal best demo archive for this map in historical personal best records.
 
@@ -6,8 +6,8 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 7 |
-| Latest Update | 2025-12-25 |
+| Archived PBs | 1 |
+| Latest Update | 2025-11-08 |
 
 ## Structure
 
