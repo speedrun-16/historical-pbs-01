@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-10T12:00:00.534Z",
+  "updatedAt": "2026-08-10T18:00:00.510Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -160,9 +160,9 @@
       "manifest": "maps/speedrun_outside_estonia/manifest.json"
     },
     "speedrun_artakey_no_ramp": {
-      "n": 4,
+      "n": 5,
       "best": 13228,
-      "at": "2026-06-03T11:34:12Z",
+      "at": "2026-08-09T10:57:19.000Z",
       "manifest": "maps/speedrun_artakey_no_ramp/manifest.json"
     },
     "deathrun_chemical": {
