@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-10T06:00:00.373Z",
+  "updatedAt": "2026-08-10T12:00:00.534Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -550,9 +550,9 @@
       "manifest": "maps/speedrun_SuNsHiNe_new/manifest.json"
     },
     "speedrun_al": {
-      "n": 8,
-      "best": 16251,
-      "at": "2026-07-15T08:00:08.000Z",
+      "n": 9,
+      "best": 16139,
+      "at": "2026-07-15T15:43:30.000Z",
       "manifest": "maps/speedrun_al/manifest.json"
     },
     "speedrun_vantara": {
