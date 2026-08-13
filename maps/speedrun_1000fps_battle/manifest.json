@@ -1,6 +1,6 @@
 {
   "map": "speedrun_1000fps_battle",
-  "updatedAt": "2026-07-21T00:00:00.452Z",
+  "updatedAt": "2026-08-13T00:00:00.716Z",
   "runs": [
     {
       "uid": "DX4AEO3RF",
@@ -695,6 +695,35 @@
           "name": "15786.replay.xz",
           "off": 381126,
           "size": 35928
+        }
+      ]
+    },
+    {
+      "uid": "LWUAVB65V",
+      "rid": 69554,
+      "hash": "3fe89e278f32302461f6cc1e2b85eeedb7f17b41b448b8902c8278b60091a3aa",
+      "t": 8833,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-11T08:27:11.000Z",
+      "zip": "00008833_STEAM_0_0_631815948_20260711-082711.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260711-#LWUAVB65V.dem",
+          "off": 77,
+          "size": 122150
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260711-#LWUAVB65V.analysis.json",
+          "off": 122314,
+          "size": 236094
+        },
+        {
+          "type": "replay",
+          "name": "69554.replay.xz",
+          "off": 358453,
+          "size": 29484
         }
       ]
     },
@@ -2116,6 +2145,35 @@
           "name": "7496.replay.xz",
           "off": 223266,
           "size": 13984
+        }
+      ]
+    },
+    {
+      "uid": "1Y5BLXLSF",
+      "rid": 69536,
+      "hash": "e919d048cb88d3598ae7088288a8c87e200fee885c03dd4cf4a43b3278e2d572",
+      "t": 12121,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-11T08:19:21.000Z",
+      "zip": "00012121_STEAM_0_0_631815948_20260711-081921.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260711-#1Y5BLXLSF.dem",
+          "off": 77,
+          "size": 110491
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260711-#1Y5BLXLSF.analysis.json",
+          "off": 110655,
+          "size": 94168
+        },
+        {
+          "type": "replay",
+          "name": "69536.replay.xz",
+          "off": 204868,
+          "size": 13848
         }
       ]
     },

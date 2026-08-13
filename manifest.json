@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-12T18:00:00.407Z",
+  "updatedAt": "2026-08-13T00:00:00.716Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -376,7 +376,7 @@
       "manifest": "maps/speedrun_getdown/manifest.json"
     },
     "speedrun_1000fps_battle": {
-      "n": 80,
+      "n": 82,
       "best": 2336,
       "at": "2026-07-11T08:29:50.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
