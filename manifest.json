@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-13T18:00:00.787Z",
+  "updatedAt": "2026-08-14T12:00:00.870Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -88,9 +88,9 @@
       "manifest": "maps/speedrun_Domination/manifest.json"
     },
     "speedrun_pupsik": {
-      "n": 7,
+      "n": 8,
       "best": 7113,
-      "at": "2026-07-17T08:26:11.000Z",
+      "at": "2026-08-13T13:26:03.000Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
     },
     "speedrun_svet_ext": {
@@ -124,9 +124,9 @@
       "manifest": "maps/speedrun_retz/manifest.json"
     },
     "speedrun_reloaded": {
-      "n": 2,
-      "best": 10639,
-      "at": "2026-04-24T11:30:58Z",
+      "n": 3,
+      "best": 10579,
+      "at": "2026-04-24T14:50:17Z",
       "manifest": "maps/speedrun_reloaded/manifest.json"
     },
     "deathrun_forest": {
@@ -646,7 +646,7 @@
       "manifest": "maps/speedrun_joker2/manifest.json"
     },
     "speedrun_pryda_v2": {
-      "n": 17,
+      "n": 18,
       "best": 8782,
       "at": "2026-08-11T11:59:41.000Z",
       "manifest": "maps/speedrun_pryda_v2/manifest.json"
@@ -736,9 +736,9 @@
       "manifest": "maps/speedrun_pryda_v1/manifest.json"
     },
     "speedrun_reloaded_edition": {
-      "n": 3,
-      "best": 11433,
-      "at": "2026-04-24T20:05:45Z",
+      "n": 4,
+      "best": 11217,
+      "at": "2026-04-24T20:28:01Z",
       "manifest": "maps/speedrun_reloaded_edition/manifest.json"
     },
     "speedrun_bunnyrace_beta2": {

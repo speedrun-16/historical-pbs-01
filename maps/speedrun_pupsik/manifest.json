@@ -1,6 +1,6 @@
 {
   "map": "speedrun_pupsik",
-  "updatedAt": "2026-08-13T18:00:00.585Z",
+  "updatedAt": "2026-08-14T12:00:00.870Z",
   "runs": [
     {
       "uid": "TQ7LDQIGS",
@@ -28,6 +28,35 @@
           "name": "12974.replay.xz",
           "off": 1045214,
           "size": 64180
+        }
+      ]
+    },
+    {
+      "uid": "4JSX848ZO",
+      "rid": 80740,
+      "hash": "30900b521c8a32627bfa29935879e18ad07ebb6decaaf6d10d0b0670654bcbf8",
+      "t": 9195,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-13T13:26:03.000Z",
+      "zip": "00009195_STEAM_0_0_631815948_20260813-132603.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_pupsik-20260813-#4JSX848ZO.dem",
+          "off": 69,
+          "size": 114759
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_pupsik-20260813-#4JSX848ZO.analysis.json",
+          "off": 114907,
+          "size": 115370
+        },
+        {
+          "type": "replay",
+          "name": "80740.replay.xz",
+          "off": 230322,
+          "size": 17756
         }
       ]
     },
