@@ -6,8 +6,8 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 15 |
-| Latest Update | 2026-07-23 |
+| Archived PBs | 16 |
+| Latest Update | 2026-07-25 |
 
 ## Structure
 

@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-14T12:00:00.870Z",
+  "updatedAt": "2026-08-14T18:00:00.741Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -556,9 +556,9 @@
       "manifest": "maps/speedrun_al/manifest.json"
     },
     "speedrun_vantara": {
-      "n": 15,
+      "n": 16,
       "best": 13686,
-      "at": "2026-07-23T11:06:27.000Z",
+      "at": "2026-07-25T09:51:34.000Z",
       "manifest": "maps/speedrun_vantara/manifest.json"
     },
     "speedrun_deceit": {
@@ -646,9 +646,9 @@
       "manifest": "maps/speedrun_joker2/manifest.json"
     },
     "speedrun_pryda_v2": {
-      "n": 18,
+      "n": 20,
       "best": 8782,
-      "at": "2026-08-11T11:59:41.000Z",
+      "at": "2026-08-14T11:58:24.000Z",
       "manifest": "maps/speedrun_pryda_v2/manifest.json"
     },
     "speedrun_sunnies_short": {
@@ -724,15 +724,15 @@
       "manifest": "maps/speedrun_tarantula/manifest.json"
     },
     "de_dust": {
-      "n": 12,
+      "n": 14,
       "best": 8143,
-      "at": "2026-07-21T12:57:07.000Z",
+      "at": "2026-08-13T13:11:21.000Z",
       "manifest": "maps/de_dust/manifest.json"
     },
     "speedrun_pryda_v1": {
-      "n": 3,
+      "n": 4,
       "best": 9804,
-      "at": "2026-01-11T01:05:47Z",
+      "at": "2026-08-11T18:26:18.000Z",
       "manifest": "maps/speedrun_pryda_v1/manifest.json"
     },
     "speedrun_reloaded_edition": {
