@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_tornado",
+  "updatedAt": "2026-08-16T12:00:00.507Z",
+  "runs": [
+    {
+      "uid": "IMCDXL88U",
+      "rid": 77196,
+      "hash": "d92a2b454a5cf3da827879d1a5477e59d8bdee188db393bed58926b28de836e0",
+      "t": 24848,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-02T11:50:29.000Z",
+      "zip": "00024848_STEAM_0_0_631815948_20260802-115029.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_tornado-20260802-#IMCDXL88U.dem",
+          "off": 70,
+          "size": 225269
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_tornado-20260802-#IMCDXL88U.analysis.json",
+          "off": 225419,
+          "size": 242876
+        },
+        {
+          "type": "replay",
+          "name": "77196.replay.xz",
+          "off": 468340,
+          "size": 44620
+        }
+      ]
+    }
+  ]
+}

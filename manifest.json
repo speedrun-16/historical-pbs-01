@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-16T06:00:00.577Z",
+  "updatedAt": "2026-08-16T12:00:00.507Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -434,6 +434,12 @@
       "best": 31001,
       "at": "2026-04-28T06:50:50Z",
       "manifest": "maps/speedrun_perspective_beta4/manifest.json"
+    },
+    "speedrun_tornado": {
+      "n": 1,
+      "best": 24848,
+      "at": "2026-08-02T11:50:29.000Z",
+      "manifest": "maps/speedrun_tornado/manifest.json"
     },
     "speedrun_evi_maxfps": {
       "n": 1,
