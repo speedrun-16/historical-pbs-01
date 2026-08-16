@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-15T18:00:00.440Z",
+  "updatedAt": "2026-08-16T00:00:00.950Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -160,7 +160,7 @@
       "manifest": "maps/speedrun_outside_estonia/manifest.json"
     },
     "speedrun_artakey_no_ramp": {
-      "n": 5,
+      "n": 6,
       "best": 13228,
       "at": "2026-08-09T10:57:19.000Z",
       "manifest": "maps/speedrun_artakey_no_ramp/manifest.json"
@@ -574,7 +574,7 @@
       "manifest": "maps/speedrun_delight/manifest.json"
     },
     "speedrun_furame": {
-      "n": 2,
+      "n": 3,
       "best": 18974,
       "at": "2026-07-26T09:31:25.000Z",
       "manifest": "maps/speedrun_furame/manifest.json"
@@ -838,7 +838,7 @@
       "manifest": "maps/speedrun_crate/manifest.json"
     },
     "speedrun_chemical": {
-      "n": 24,
+      "n": 25,
       "best": 7651,
       "at": "2026-08-08T05:46:15.000Z",
       "manifest": "maps/speedrun_chemical/manifest.json"
