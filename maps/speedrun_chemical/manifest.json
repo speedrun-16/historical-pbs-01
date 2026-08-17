@@ -1,6 +1,6 @@
 {
   "map": "speedrun_chemical",
-  "updatedAt": "2026-08-16T00:00:00.950Z",
+  "updatedAt": "2026-08-17T18:00:00.814Z",
   "runs": [
     {
       "uid": "S4OM413IF",
@@ -86,6 +86,35 @@
           "name": "78944.replay.xz",
           "off": 230744,
           "size": 18304
+        }
+      ]
+    },
+    {
+      "uid": "O5URWCV5R",
+      "rid": 76278,
+      "hash": "7b84f97cb91834d25ffe372751f19989f29e9fa4dd0f6d2bca4ca6282e063587",
+      "t": 9859,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-29T11:56:14.000Z",
+      "zip": "00009859_STEAM_0_0_631815948_20260729-115614.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_chemical-20260729-#O5URWCV5R.dem",
+          "off": 71,
+          "size": 107570
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical-20260729-#O5URWCV5R.analysis.json",
+          "off": 107722,
+          "size": 121042
+        },
+        {
+          "type": "replay",
+          "name": "76278.replay.xz",
+          "off": 228809,
+          "size": 19052
         }
       ]
     },
@@ -637,6 +666,35 @@
           "name": "2937.replay.xz",
           "off": 207342,
           "size": 13548
+        }
+      ]
+    },
+    {
+      "uid": "YC21U0MPN",
+      "rid": 42119,
+      "hash": "7880ac3c1c93d85c46ca78231180d529c1f277d46e0ae114e9632f5ef3ae9075",
+      "t": 11382,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-04-16T17:42:15Z",
+      "zip": "00011382_STEAM_0_0_631815948_20260416-174215.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical-20260416-#YC21U0MPN.analysis.json",
+          "off": 81,
+          "size": 103518
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_chemical-20260416-#YC21U0MPN.dem",
+          "off": 103670,
+          "size": 117825
+        },
+        {
+          "type": "replay",
+          "name": "42119.replay.xz",
+          "off": 221540,
+          "size": 14084
         }
       ]
     },
