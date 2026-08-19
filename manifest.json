@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-19T00:00:00.403Z",
+  "updatedAt": "2026-08-19T12:00:00.586Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -118,9 +118,9 @@
       "manifest": "maps/speedrun_aztekek2_easy/manifest.json"
     },
     "speedrun_duster_beta1": {
-      "n": 10,
+      "n": 11,
       "best": 22380,
-      "at": "2026-08-04T01:43:03.000Z",
+      "at": "2026-08-04T19:47:30.000Z",
       "manifest": "maps/speedrun_duster_beta1/manifest.json"
     },
     "speedrun_retz": {
