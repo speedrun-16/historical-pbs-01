@@ -1,4 +1,4 @@
-# speedrun_pupsik2
+# speedrun_red_push
 
 Personal best demo archive for this map in historical personal best records.
 
@@ -6,8 +6,8 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 10 |
-| Latest Update | 2026-08-20 |
+| Archived PBs | 1 |
+| Latest Update | 2026-08-17 |
 
 ## Structure
 
