@@ -1,4 +1,4 @@
-# speedrun_opcode_mini
+# speedrun_w00dfun_nw
 
 Personal best demo archive for this map in historical personal best records.
 
@@ -6,8 +6,8 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 4 |
-| Latest Update | 2026-08-02 |
+| Archived PBs | 1 |
+| Latest Update | 2026-08-21 |
 
 ## Structure
 
