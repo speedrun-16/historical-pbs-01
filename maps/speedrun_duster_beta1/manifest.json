@@ -1,6 +1,6 @@
 {
   "map": "speedrun_duster_beta1",
-  "updatedAt": "2026-08-19T18:00:00.454Z",
+  "updatedAt": "2026-08-24T18:00:00.603Z",
   "runs": [
     {
       "uid": "0WT2N8SOG",
@@ -177,6 +177,35 @@
       ]
     },
     {
+      "uid": "MVSMFDHW8",
+      "rid": 84739,
+      "hash": "b5a19d2af646aeb9ac07bf8b4d063a3cd4a4e6bef214b4994b869731901aef13",
+      "t": 25872,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-19T17:42:09.000Z",
+      "zip": "00025872_STEAM_0_1_155808091_20260819-174209.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_duster_beta1-20260819-#MVSMFDHW8.dem",
+          "off": 75,
+          "size": 220171
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_duster_beta1-20260819-#MVSMFDHW8.analysis.json",
+          "off": 220331,
+          "size": 180416
+        },
+        {
+          "type": "replay",
+          "name": "84739.replay.xz",
+          "off": 400792,
+          "size": 28576
+        }
+      ]
+    },
+    {
       "uid": "F5LZPBYYZ",
       "rid": 84557,
       "hash": "5da8811e083b6786ab20c6818676a5ef025e91f8f7dce4d7fcaeca95fe0338be",
@@ -289,6 +318,35 @@
           "name": "77725.replay.xz",
           "off": 383143,
           "size": 29292
+        }
+      ]
+    },
+    {
+      "uid": "YYCL4S1CZ",
+      "rid": 78128,
+      "hash": "23ffd2ecc2eeba93c5e072028a6bbb30ace6a0bebff6b6f270a1f0461ef30909",
+      "t": 26404,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-08-04T23:43:40.000Z",
+      "zip": "00026404_STEAM_0_1_780576434_20260804-234340.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_duster_beta1-20260804-#YYCL4S1CZ.dem",
+          "off": 75,
+          "size": 217144
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_duster_beta1-20260804-#YYCL4S1CZ.analysis.json",
+          "off": 217304,
+          "size": 175565
+        },
+        {
+          "type": "replay",
+          "name": "78128.replay.xz",
+          "off": 392914,
+          "size": 28924
         }
       ]
     },
