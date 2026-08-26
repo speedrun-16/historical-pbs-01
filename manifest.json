@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-26T00:00:00.977Z",
+  "updatedAt": "2026-08-26T12:00:00.770Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -351,6 +351,12 @@
       "at": "2025-12-06T05:59:06Z",
       "manifest": "maps/speedrun_record/manifest.json"
     },
+    "speedrun_df_r7_brigi": {
+      "n": 1,
+      "best": 17123,
+      "at": "2026-08-25T19:34:22.000Z",
+      "manifest": "maps/speedrun_df_r7_brigi/manifest.json"
+    },
     "speedrun_katozlandia": {
       "n": 2,
       "best": 5997,
@@ -430,9 +436,9 @@
       "manifest": "maps/speedrun_sickmilki/manifest.json"
     },
     "speedrun_tr": {
-      "n": 12,
+      "n": 13,
       "best": 11001,
-      "at": "2026-08-25T17:57:50.000Z",
+      "at": "2026-08-25T18:10:52.000Z",
       "manifest": "maps/speedrun_tr/manifest.json"
     },
     "speedrun_r3x": {
@@ -472,9 +478,9 @@
       "manifest": "maps/speedrun_sunnies/manifest.json"
     },
     "speedrun_runners": {
-      "n": 40,
+      "n": 41,
       "best": 5376,
-      "at": "2026-08-19T16:58:33.000Z",
+      "at": "2026-08-25T15:44:31.000Z",
       "manifest": "maps/speedrun_runners/manifest.json"
     },
     "speedrun_evidens_big": {
@@ -634,9 +640,9 @@
       "manifest": "maps/speedrun_wampirex/manifest.json"
     },
     "speedrun_wander": {
-      "n": 13,
+      "n": 14,
       "best": 17051,
-      "at": "2026-05-26T16:06:55Z",
+      "at": "2026-08-25T21:09:04.000Z",
       "manifest": "maps/speedrun_wander/manifest.json"
     },
     "speedrun_muhaha": {
