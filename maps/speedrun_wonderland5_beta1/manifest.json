@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_wonderland5_beta1",
+  "updatedAt": "2026-08-26T18:00:00.708Z",
+  "runs": [
+    {
+      "uid": "11S3IVQJC",
+      "rid": 86370,
+      "hash": "d397b47e1ea062f9ef365a9242fde06d349b45568aa090bedca20e0abcc675e3",
+      "t": 37260,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-25T16:53:03.000Z",
+      "zip": "00037260_STEAM_0_1_155808091_20260825-165303.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_wonderland5_beta1-20260825-#11S3IVQJC.dem",
+          "off": 80,
+          "size": 278826
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_wonderland5_beta1-20260825-#11S3IVQJC.analysis.json",
+          "off": 278996,
+          "size": 237418
+        },
+        {
+          "type": "replay",
+          "name": "86370.replay.xz",
+          "off": 516459,
+          "size": 44408
+        }
+      ]
+    }
+  ]
+}

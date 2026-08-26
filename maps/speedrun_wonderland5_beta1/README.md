@@ -1,4 +1,4 @@
-# speedrun_df_r7_brigi
+# speedrun_wonderland5_beta1
 
 Personal best demo archive for this map in historical personal best records.
 
@@ -6,7 +6,7 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 2 |
+| Archived PBs | 1 |
 | Latest Update | 2026-08-25 |
 
 ## Structure
