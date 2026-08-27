@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-26T18:00:00.708Z",
+  "updatedAt": "2026-08-27T00:00:00.687Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -327,6 +327,12 @@
       "at": "2026-05-23T13:48:06Z",
       "manifest": "maps/speedrun_pool_simple/manifest.json"
     },
+    "speedrun_620s": {
+      "n": 1,
+      "best": 23912,
+      "at": "2026-08-26T13:47:32.000Z",
+      "manifest": "maps/speedrun_620s/manifest.json"
+    },
     "deathrun_dust2010": {
       "n": 7,
       "best": 12258,
@@ -406,9 +412,9 @@
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "speedrun_eastwood": {
-      "n": 1,
-      "best": 20337,
-      "at": "2025-10-17T17:57:04Z",
+      "n": 3,
+      "best": 19530,
+      "at": "2026-08-26T09:36:26.000Z",
       "manifest": "maps/speedrun_eastwood/manifest.json"
     },
     "speedrun_w00dfun_nw": {

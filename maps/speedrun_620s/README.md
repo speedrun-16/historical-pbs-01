@@ -1,4 +1,4 @@
-# speedrun_eastwood
+# speedrun_620s
 
 Personal best demo archive for this map in historical personal best records.
 
@@ -6,7 +6,7 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 3 |
+| Archived PBs | 1 |
 | Latest Update | 2026-08-26 |
 
 ## Structure
