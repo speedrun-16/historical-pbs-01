@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-08-30T18:00:00.728Z",
+  "updatedAt": "2026-09-01T00:00:00.536Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -364,9 +364,9 @@
       "manifest": "maps/speedrun_record/manifest.json"
     },
     "speedrun_df_r7_brigi": {
-      "n": 2,
-      "best": 17122,
-      "at": "2026-08-25T19:34:22.000Z",
+      "n": 3,
+      "best": 15180,
+      "at": "2026-08-27T00:08:26.000Z",
       "manifest": "maps/speedrun_df_r7_brigi/manifest.json"
     },
     "speedrun_katozlandia": {
@@ -640,7 +640,7 @@
       "manifest": "maps/speedrun_sqn/manifest.json"
     },
     "speedrun_small_white": {
-      "n": 2,
+      "n": 3,
       "best": 12281,
       "at": "2026-08-05T04:50:38.000Z",
       "manifest": "maps/speedrun_small_white/manifest.json"
@@ -802,7 +802,7 @@
       "manifest": "maps/speedrun_bunnyrace_beta2/manifest.json"
     },
     "speedrun_easy_v1": {
-      "n": 25,
+      "n": 26,
       "best": 10292,
       "at": "2026-05-10T15:34:56Z",
       "manifest": "maps/speedrun_easy_v1/manifest.json"

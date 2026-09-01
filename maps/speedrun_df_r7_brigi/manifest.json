@@ -1,7 +1,36 @@
 {
   "map": "speedrun_df_r7_brigi",
-  "updatedAt": "2026-08-26T18:00:00.564Z",
+  "updatedAt": "2026-09-01T00:00:00.536Z",
   "runs": [
+    {
+      "uid": "CO1ZBIDL9",
+      "rid": 87402,
+      "hash": "a893f923492f9bfff5ac9e86682d7c595f9187478ebb62d0c54a04f14b3bf2b6",
+      "t": 15180,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-08-27T00:08:26.000Z",
+      "zip": "00015180_STEAM_0_1_408712_20260827-000826.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_df_r7_brigi-20260827-#CO1ZBIDL9.dem",
+          "off": 74,
+          "size": 186424
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_df_r7_brigi-20260827-#CO1ZBIDL9.analysis.json",
+          "off": 186582,
+          "size": 173238
+        },
+        {
+          "type": "replay",
+          "name": "87402.replay.xz",
+          "off": 359865,
+          "size": 27900
+        }
+      ]
+    },
     {
       "uid": "2HPFP7IQ8",
       "rid": 86498,
