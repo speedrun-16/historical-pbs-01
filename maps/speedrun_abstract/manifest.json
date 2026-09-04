@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_abstract",
+  "updatedAt": "2026-09-04T00:00:00.451Z",
+  "runs": [
+    {
+      "uid": "XTLTAKOKY",
+      "rid": 90204,
+      "hash": "953988a8a8a2b6fcc633a160f72e2ee75d9e477770e21fc21c8e53138ad52d62",
+      "t": 33626,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-09-03T17:56:56.000Z",
+      "zip": "00033626_STEAM_0_0_631815948_20260903-175656.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_abstract-20260903-#XTLTAKOKY.dem",
+          "off": 71,
+          "size": 284799
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_abstract-20260903-#XTLTAKOKY.analysis.json",
+          "off": 284951,
+          "size": 360236
+        },
+        {
+          "type": "replay",
+          "name": "90204.replay.xz",
+          "off": 645232,
+          "size": 60816
+        }
+      ]
+    }
+  ]
+}
