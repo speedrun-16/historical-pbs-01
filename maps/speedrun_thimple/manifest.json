@@ -1,7 +1,36 @@
 {
   "map": "speedrun_thimple",
-  "updatedAt": "2026-09-05T00:00:00.538Z",
+  "updatedAt": "2026-09-11T18:00:00.445Z",
   "runs": [
+    {
+      "uid": "9VFE1FGFI",
+      "rid": 90220,
+      "hash": "65932345dc6442de2d5d8af2a8037051c98fae43bdc9889eda7b2341e0cd009b",
+      "t": 27447,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-09-03T18:38:59.000Z",
+      "zip": "00027447_STEAM_0_0_631815948_20260903-183859.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_thimple-20260903-#9VFE1FGFI.dem",
+          "off": 70,
+          "size": 262607
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_thimple-20260903-#9VFE1FGFI.analysis.json",
+          "off": 262757,
+          "size": 264710
+        },
+        {
+          "type": "replay",
+          "name": "90220.replay.xz",
+          "off": 527512,
+          "size": 47752
+        }
+      ]
+    },
     {
       "uid": "FS2D9YLXZ",
       "rid": 89851,
