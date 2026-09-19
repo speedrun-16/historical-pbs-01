@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_otton",
+  "updatedAt": "2026-09-19T06:00:00.461Z",
+  "runs": [
+    {
+      "uid": "N28S7M27J",
+      "rid": 90289,
+      "hash": "f0bb4d51294f81e58c4f41ec7b0461c11c215a9439aebfeed4c88278f1fa9d58",
+      "t": 18122,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-09-04T02:02:32.000Z",
+      "zip": "00018122_STEAM_0_1_155808091_20260904-020232.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_otton-20260904-#N28S7M27J.dem",
+          "off": 68,
+          "size": 146983
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_otton-20260904-#N28S7M27J.analysis.json",
+          "off": 147129,
+          "size": 125376
+        },
+        {
+          "type": "replay",
+          "name": "90289.replay.xz",
+          "off": 272550,
+          "size": 22700
+        }
+      ]
+    }
+  ]
+}

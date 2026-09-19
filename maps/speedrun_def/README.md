@@ -1,4 +1,4 @@
-# speedrun_triskelion_ruins_beta2
+# speedrun_def
 
 Personal best demo archive for this map in historical personal best records.
 
@@ -6,8 +6,8 @@ Personal best demo archive for this map in historical personal best records.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 10 |
-| Latest Update | 2026-07-04 |
+| Archived PBs | 1 |
+| Latest Update | 2026-09-18 |
 
 ## Structure
 
