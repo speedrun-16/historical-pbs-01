@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_marsi",
+  "updatedAt": "2026-09-19T00:00:00.399Z",
+  "runs": [
+    {
+      "uid": "GXXZHVPO9",
+      "rid": 90832,
+      "hash": "38907cb18ad3e8b349a17b570ef3ed0fe326f227c59d24ea2d3210e53f129972",
+      "t": 15149,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-09-08T18:47:09.000Z",
+      "zip": "00015149_STEAM_0_1_155808091_20260908-184709.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_marsi-20260908-#GXXZHVPO9.dem",
+          "off": 68,
+          "size": 126379
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_marsi-20260908-#GXXZHVPO9.analysis.json",
+          "off": 126525,
+          "size": 106326
+        },
+        {
+          "type": "replay",
+          "name": "90832.replay.xz",
+          "off": 232896,
+          "size": 17916
+        }
+      ]
+    }
+  ]
+}

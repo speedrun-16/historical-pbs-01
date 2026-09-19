@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-09-16T18:00:00.426Z",
+  "updatedAt": "2026-09-19T00:00:00.760Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -676,7 +676,7 @@
       "manifest": "maps/speedrun_wander/manifest.json"
     },
     "speedrun_thimple": {
-      "n": 4,
+      "n": 5,
       "best": 27031,
       "at": "2026-09-12T17:49:37.000Z",
       "manifest": "maps/speedrun_thimple/manifest.json"
@@ -956,6 +956,12 @@
       "best": 10559,
       "at": "2025-12-11T11:27:16Z",
       "manifest": "maps/speedrun_poland_copy/manifest.json"
+    },
+    "speedrun_marsi": {
+      "n": 1,
+      "best": 15149,
+      "at": "2026-09-08T18:47:09.000Z",
+      "manifest": "maps/speedrun_marsi/manifest.json"
     },
     "de_train": {
       "n": 2,
