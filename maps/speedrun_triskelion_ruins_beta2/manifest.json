@@ -1,6 +1,6 @@
 {
   "map": "speedrun_triskelion_ruins_beta2",
-  "updatedAt": "2026-09-19T18:00:00.820Z",
+  "updatedAt": "2026-09-21T00:00:00.525Z",
   "runs": [
     {
       "uid": "82DHAE11P",
@@ -173,6 +173,35 @@
           "name": "13070.replay.xz",
           "off": 343156,
           "size": 26784
+        }
+      ]
+    },
+    {
+      "uid": "VM8GT474D",
+      "rid": 92414,
+      "hash": "82f00d3f2dc7f1fa7a3db2bdac14d4aea50abb116bfb9263fd6fea7213729f5f",
+      "t": 15217,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-09-19T15:44:11.000Z",
+      "zip": "00015217_STEAM_0_1_155808091_20260919-154411.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20260919-#VM8GT474D.dem",
+          "off": 85,
+          "size": 156586
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20260919-#VM8GT474D.analysis.json",
+          "off": 156766,
+          "size": 109697
+        },
+        {
+          "type": "replay",
+          "name": "92414.replay.xz",
+          "off": 266508,
+          "size": 18072
         }
       ]
     },
