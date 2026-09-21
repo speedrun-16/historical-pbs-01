@@ -1,6 +1,6 @@
 {
   "map": "speedrun_df_kool_mini7",
-  "updatedAt": "2026-08-30T12:00:00.397Z",
+  "updatedAt": "2026-09-21T18:00:00.380Z",
   "runs": [
     {
       "uid": "3Y3W40TPI",
@@ -28,6 +28,35 @@
           "name": "88381.replay.xz",
           "off": 550788,
           "size": 51240
+        }
+      ]
+    },
+    {
+      "uid": "IWB3BRRID",
+      "rid": 89955,
+      "hash": "c980eb0f9a4d05b25ebd242c1ca2dcb7ab9d21322c9e448ec20963f1a162626f",
+      "t": 29185,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-09-02T20:14:42.000Z",
+      "zip": "00029185_STEAM_0_1_780576434_20260902-201442.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_df_kool_mini7-20260902-#IWB3BRRID.dem",
+          "off": 76,
+          "size": 252631
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_df_kool_mini7-20260902-#IWB3BRRID.analysis.json",
+          "off": 252793,
+          "size": 279250
+        },
+        {
+          "type": "replay",
+          "name": "89955.replay.xz",
+          "off": 532088,
+          "size": 51064
         }
       ]
     },
