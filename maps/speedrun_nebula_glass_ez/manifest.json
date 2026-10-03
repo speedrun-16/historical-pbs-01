@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_nebula_glass_ez",
+  "updatedAt": "2026-10-03T12:00:00.463Z",
+  "runs": [
+    {
+      "uid": "Y8Y36FHWZ",
+      "rid": 92038,
+      "hash": "27293174c67fad8b356328fa23134f901afdf293584c687deb7663ea633c6e53",
+      "t": 12643,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-09-19T01:03:50.000Z",
+      "zip": "00012643_STEAM_0_1_155808091_20260919-010350.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_nebula_glass_ez-20260919-#Y8Y36FHWZ.dem",
+          "off": 78,
+          "size": 114337
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_nebula_glass_ez-20260919-#Y8Y36FHWZ.analysis.json",
+          "off": 114503,
+          "size": 88880
+        },
+        {
+          "type": "replay",
+          "name": "92038.replay.xz",
+          "off": 203428,
+          "size": 16564
+        }
+      ]
+    }
+  ]
+}
