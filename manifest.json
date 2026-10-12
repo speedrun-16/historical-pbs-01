@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-10-12T00:00:00.514Z",
+  "updatedAt": "2026-10-12T18:00:00.478Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -232,9 +232,9 @@
       "manifest": "maps/de_dust2/manifest.json"
     },
     "speedrun_silent": {
-      "n": 4,
-      "best": 28907,
-      "at": "2026-04-10T06:23:34Z",
+      "n": 6,
+      "best": 28305,
+      "at": "2026-10-11T19:07:44.000Z",
       "manifest": "maps/speedrun_silent/manifest.json"
     },
     "speedrun_confusion3": {
