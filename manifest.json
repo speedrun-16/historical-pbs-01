@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-10-14T18:00:00.626Z",
+  "updatedAt": "2026-10-15T06:00:00.406Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -268,9 +268,9 @@
       "manifest": "maps/speedrun_legacy/manifest.json"
     },
     "cs_militia": {
-      "n": 3,
+      "n": 5,
       "best": 9633,
-      "at": "2025-11-16T11:59:23Z",
+      "at": "2026-10-14T23:59:29.000Z",
       "manifest": "maps/cs_militia/manifest.json"
     },
     "speedrun_celer": {

@@ -7,8 +7,8 @@ Map-level archive directory for historical personal best records.
 | Metric | Value |
 | :-- | --: |
 | Maps | 172 |
-| Archived PBs | 971 |
-| Latest Update | 2026-10-12 |
+| Archived PBs | 973 |
+| Latest Update | 2026-10-14 |
 
 ## Structure
 
