@@ -7,7 +7,7 @@ Personal best demo archive for historical personal best records.
 | Metric | Value |
 | :-- | --: |
 | Maps | 172 |
-| Archived PBs | 973 |
+| Archived PBs | 974 |
 | Latest Update | 2026-10-14 |
 
 ## Structure
