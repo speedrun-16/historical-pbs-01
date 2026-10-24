@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-10-22T12:00:00.416Z",
+  "updatedAt": "2026-10-24T18:00:00.408Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -940,9 +940,9 @@
       "manifest": "maps/speedrun_crate/manifest.json"
     },
     "speedrun_chemical": {
-      "n": 28,
+      "n": 29,
       "best": 7651,
-      "at": "2026-08-08T06:16:13.000Z",
+      "at": "2026-08-18T11:03:57.000Z",
       "manifest": "maps/speedrun_chemical/manifest.json"
     },
     "speedrun_bieber": {
