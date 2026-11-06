@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-11-02T18:00:00.446Z",
+  "updatedAt": "2026-11-06T18:00:00.634Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -172,7 +172,7 @@
       "manifest": "maps/speedrun_bieber_maxfps/manifest.json"
     },
     "speedrun_w00dfun": {
-      "n": 51,
+      "n": 52,
       "best": 3407,
       "at": "2026-10-03T16:07:43.000Z",
       "manifest": "maps/speedrun_w00dfun/manifest.json"
@@ -424,7 +424,7 @@
       "manifest": "maps/speedrun_getdown/manifest.json"
     },
     "speedrun_1000fps_battle": {
-      "n": 86,
+      "n": 88,
       "best": 2336,
       "at": "2026-09-20T17:59:33.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"

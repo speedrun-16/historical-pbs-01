@@ -1,6 +1,6 @@
 {
   "map": "speedrun_1000fps_battle",
-  "updatedAt": "2026-09-21T00:00:00.747Z",
+  "updatedAt": "2026-11-06T18:00:00.593Z",
   "runs": [
     {
       "uid": "DX4AEO3RF",
@@ -1134,6 +1134,35 @@
       ]
     },
     {
+      "uid": "IZYJQFIQN",
+      "rid": 72875,
+      "hash": "17ce0d1218506a8a214154142291222169ca0520fd5b971791666d2ab3239ea3",
+      "t": 10449,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-20T23:14:31.000Z",
+      "zip": "00010449_STEAM_0_0_631815948_20260720-231431.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260720-#IZYJQFIQN.dem",
+          "off": 77,
+          "size": 115537
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260720-#IZYJQFIQN.analysis.json",
+          "off": 115701,
+          "size": 128142
+        },
+        {
+          "type": "replay",
+          "name": "72875.replay.xz",
+          "off": 243888,
+          "size": 19076
+        }
+      ]
+    },
+    {
       "uid": "83PRPY63L",
       "rid": 69048,
       "hash": "bd72ed81fc7b6d6fbc56508f710ad2693f27ac7b51f53688e45a7001a6cab7f4",
@@ -2145,6 +2174,35 @@
           "name": "12949.replay.xz",
           "off": 214527,
           "size": 14508
+        }
+      ]
+    },
+    {
+      "uid": "R662DCDAT",
+      "rid": 80479,
+      "hash": "f96ca3e280f1597c8541130beded8728e11a83995c64bee4c4b34b1d827a7b91",
+      "t": 12037,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-12T21:33:43.000Z",
+      "zip": "00012037_STEAM_0_0_631815948_20260812-213343.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260812-#R662DCDAT.dem",
+          "off": 77,
+          "size": 124766
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260812-#R662DCDAT.analysis.json",
+          "off": 124930,
+          "size": 92241
+        },
+        {
+          "type": "replay",
+          "name": "80479.replay.xz",
+          "off": 217216,
+          "size": 14004
         }
       ]
     },
