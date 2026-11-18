@@ -1,7 +1,7 @@
 {
   "category": null,
   "categoryName": "Historical PBs",
-  "updatedAt": "2026-11-12T18:00:00.570Z",
+  "updatedAt": "2026-11-18T18:00:00.525Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -220,9 +220,9 @@
       "manifest": "maps/speedrun_calm/manifest.json"
     },
     "speedrun_solitude": {
-      "n": 6,
-      "best": 25945,
-      "at": "2026-07-03T11:33:02.000Z",
+      "n": 7,
+      "best": 25714,
+      "at": "2026-11-06T14:02:15.000Z",
       "manifest": "maps/speedrun_solitude/manifest.json"
     },
     "de_dust2": {
